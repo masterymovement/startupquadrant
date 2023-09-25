@@ -1,0 +1,1001 @@
+id,company_name,Revenue,Expense,Profit,YoY Growth of Profit,Industry,Country,State,City
+1,Janyx,13537429,6158747,7378682,2.1,Coal Mining,United States,California,San Francisco
+2,Voonte,8870186,6866989,2003197,1.28,n/a,United States,Texas,Houston
+3,Dabjam,19872459,7824017,12048442,1.21,Marine Transportation,United States,Minnesota,Saint Paul
+4,Zoomlounge,17017414,7271387,9746027,3.71,n/a,United States,California,Pomona
+5,Skimia,19316926,7522958,11793968,3.77,Marine Transportation,United States,California,Pasadena
+6,Feednation,10712564,826525,9886039,0.63,Major Pharmaceuticals,United States,Ohio,Hamilton
+7,InnoZ,8375850,8001834,374016,2.96,Telecommunications Equipment,United States,Louisiana,New Orleans
+8,Wordtune,17202583,2902327,14300256,0.86,n/a,United States,Michigan,Detroit
+9,Livefish,16403674,8063443,8340231,3.92,Major Banks,United States,Texas,Houston
+10,Rhycero,8278921,4616954,3661967,3.43,n/a,United States,New York,Jamaica
+11,Avavee,12376543,3033711,9342832,0.67,Industrial Specialties,United States,Kentucky,Louisville
+12,Dabshots,1450420,5570219,-4119799,2.93,Medical/Dental Instruments,United States,Washington,Lakewood
+13,Browsetype,11348477,9081066,2267411,4.24,Farming/Seeds/Milling,United States,South Carolina,Aiken
+14,Roombo,8075478,9880082,-1804604,0.34,Auto Parts:O.E.M.,United States,Pennsylvania,Pittsburgh
+15,Realbuzz,5062316,4165890,896426,0.93,n/a,United States,Virginia,Dulles
+16,Demivee,8146673,7424215,722458,3.57,Electrical Products,United States,Ohio,Cleveland
+17,Feedspan,14595442,8056361,6539081,3.57,Consumer Specialties,United States,Florida,Clearwater
+18,Buzzshare,6995781,4694483,2301298,1.66,Major Banks,United States,New York,New York City
+19,Quaxo,14915356,7963781,6951575,2.23,Real Estate Investment Trusts,United States,Texas,Lubbock
+20,Realbridge,8800747,8819989,-19242,2.82,Oil Refining/Marketing,United States,Florida,Tampa
+21,Dabvine,14906597,1075235,13831362,4.06,Restaurants,United States,Wisconsin,Milwaukee
+22,Skipstorm,17741663,9625222,8116441,0.93,Major Pharmaceuticals,United States,Ohio,Dayton
+23,Tanoodle,15417720,1948140,13469580,3.64,Electric Utilities: Central,United States,Oregon,Portland
+24,Feedmix,4106611,5149116,-1042505,0.91,Biotechnology: Biological Products (No Diagnostic Substances),United States,Washington,Seattle
+25,Skiba,7708812,7929039,-220227,0.64,Major Banks,United States,Florida,Saint Petersburg
+26,Eazzy,16950285,2856410,14093875,2.92,Publishing,United States,New York,New York City
+27,Quamba,10196353,8965780,1230573,0.79,Business Services,United States,Pennsylvania,Pittsburgh
+28,Riffpedia,5964576,734534,5230042,3.52,Restaurants,United States,New Mexico,Las Cruces
+29,Blogpad,3381662,7422183,-4040521,1.66,Medical Specialities,United States,Maryland,Baltimore
+30,Oyoba,6179454,6518265,-338811,3.38,EDP Services,United States,Texas,Arlington
+31,Wordify,5916128,6935902,-1019774,0.45,Marine Transportation,United States,Illinois,Evanston
+32,Cogilith,3332127,5291982,-1959855,3.75,Real Estate Investment Trusts,United States,North Carolina,Durham
+33,Gigashots,14051732,5540685,8511047,1.96,Real Estate Investment Trusts,United States,Washington,Bellevue
+34,Bubbletube,18034941,3997232,14037709,2.23,Integrated oil Companies,United States,Mississippi,Jackson
+35,Photobug,10891673,7709382,3182291,2.14,Major Banks,United States,Texas,Houston
+36,Thoughtworks,11202507,9338153,1864354,0.98,n/a,United States,California,Visalia
+37,Flashpoint,14776714,3784555,10992159,3.12,Textiles,United States,North Carolina,Raleigh
+38,Oba,8857529,6294673,2562856,3.79,Computer Software: Prepackaged Software,United States,Missouri,Columbia
+39,Mydeo,11520879,7497404,4023475,3.5,Major Banks,United States,Virginia,Alexandria
+40,Realfire,14753565,3387605,11365960,1.24,Military/Government/Technical,United States,Iowa,Davenport
+41,Digitube,16345766,8590609,7755157,3.62,Major Pharmaceuticals,United States,Oklahoma,Tulsa
+42,Snaptags,12386345,2344668,10041677,1.63,n/a,United States,Minnesota,Minneapolis
+43,Devshare,9027857,1626397,7401460,3.57,Major Pharmaceuticals,United States,Louisiana,New Orleans
+44,Aimbu,14242887,8044884,6198003,1.97,Electronic Components,United States,New Mexico,Albuquerque
+45,Yakijo,14083184,8339452,5743732,0.47,Computer Manufacturing,United States,Mississippi,Jackson
+46,Omba,17014227,7649333,9364894,1.26,Steel/Iron Ore,United States,North Carolina,Raleigh
+47,Gabtype,12367635,7185222,5182413,1.93,Major Chemicals,United States,Georgia,Atlanta
+48,Quimm,10602394,4155266,6447128,0.16,Banks,United States,Missouri,Saint Louis
+49,Vimbo,2357510,3423259,-1065749,1.3,Major Pharmaceuticals,United States,Georgia,Gainesville
+50,Realcube,9620574,2338037,7282537,3.15,n/a,United States,Arkansas,Little Rock
+51,Vipe,19216764,2108456,17108308,2.83,n/a,United States,Texas,Midland
+52,Aibox,15336156,5900255,9435901,0.76,Medical/Dental Instruments,United States,Minnesota,Monticello
+53,Jaxnation,10785061,8993703,1791358,0.82,Tools/Hardware,United States,Texas,Houston
+54,Realbridge,8545755,4036983,4508772,1.21,Finance: Consumer Services,United States,North Carolina,Charlotte
+55,Thoughtstorm,15008239,8050234,6958005,2.09,Clothing/Shoe/Accessory Stores,United States,West Virginia,Charleston
+56,Mydeo,5421978,7985920,-2563942,1.64,Office Equipment/Supplies/Services,United States,California,Pasadena
+57,Bluezoom,10670475,6584795,4085680,0.19,n/a,United States,Texas,El Paso
+58,Meetz,4379028,4665527,-286499,0.62,Major Pharmaceuticals,United States,New York,Rochester
+59,Yata,14697911,8322103,6375808,4.13,n/a,United States,Florida,Tallahassee
+60,Flashspan,18112459,2055439,16057020,0.53,Real Estate Investment Trusts,United States,Arizona,Phoenix
+61,Brainsphere,8217200,9197292,-980092,3.76,Oil & Gas Production,United States,Illinois,Chicago
+62,Lazzy,9520022,8754061,765961,1.02,Major Banks,United States,Virginia,Merrifield
+63,Vinder,18011822,9463964,8547858,3.99,n/a,United States,Minnesota,Minneapolis
+64,Skiba,4598338,3446067,1152271,1.08,Major Banks,United States,New Jersey,Trenton
+65,Ozu,8407130,3114900,5292230,2.08,n/a,United States,Virginia,Richmond
+66,Livepath,7478679,1901971,5576708,1.29,Clothing/Shoe/Accessory Stores,United States,North Carolina,Charlotte
+67,Thoughtworks,13001095,2669988,10331107,4.03,Major Banks,United States,Pennsylvania,Reading
+68,Tazzy,18931225,6181388,12749837,3.83,Industrial Machinery/Components,United States,Indiana,Indianapolis
+69,Ailane,9126779,1585116,7541663,1.09,Newspapers/Magazines,United States,New York,New York City
+70,Meevee,13956534,8812021,5144513,1.55,n/a,United States,South Dakota,Sioux Falls
+71,Zava,13514693,4341776,9172917,4.11,Savings Institutions,United States,Florida,Tampa
+72,Kwimbee,3368803,2140054,1228749,2.12,n/a,United States,Kentucky,Lexington
+73,Twitterbridge,4350323,9823632,-5473309,3.95,Business Services,United States,Florida,Miami
+74,Skyvu,19407733,5358651,14049082,3.58,Industrial Machinery/Components,United States,Virginia,Lynchburg
+75,Dablist,10980100,8649253,2330847,2.73,Paper,United States,Texas,Austin
+76,Thoughtbeat,15771268,8101092,7670176,2.33,EDP Services,United States,California,Pasadena
+77,Buzzshare,6088064,3186032,2902032,3.66,Major Banks,United States,South Carolina,Spartanburg
+78,Twitterbeat,5563093,9545194,-3982101,2.63,Other Specialty Stores,United States,Iowa,Des Moines
+79,Meeveo,3937208,6862222,-2925014,3.04,n/a,United States,Florida,Jacksonville
+80,Flipbug,8308544,5595606,2712938,1.41,Major Pharmaceuticals,United States,Texas,Abilene
+81,Browsebug,7230851,8285541,-1054690,2.12,Oil & Gas Production,United States,Missouri,Saint Louis
+82,Skinte,3134801,2214788,920013,0.17,Major Banks,United States,Florida,Tampa
+83,Realpoint,3973338,4452327,-478989,0.39,Oil & Gas Production,United States,Illinois,Peoria
+84,Twitterbeat,1884581,3653298,-1768717,3.37,Major Banks,United States,Colorado,Boulder
+85,Brainverse,2896902,1088763,1808139,0.17,n/a,United States,Pennsylvania,Johnstown
+86,Linkbridge,10136548,8633859,1502689,2.94,Major Chemicals,United States,Indiana,Indianapolis
+87,Skibox,3338483,3350778,-12295,1.65,n/a,United States,Kansas,Wichita
+88,Gabtype,11117331,3238905,7878426,1.63,n/a,United States,Texas,Dallas
+89,Kare,11163564,3888451,7275113,0.87,Real Estate Investment Trusts,United States,Minnesota,Maple Plain
+90,Twitterlist,16505315,4611897,11893418,2.22,Construction/Ag Equipment/Trucks,United States,Florida,Tampa
+91,Zava,7394012,5940782,1453230,3.49,n/a,United States,Missouri,Jefferson City
+92,Photofeed,5097459,9038681,-3941222,3.15,n/a,United States,Idaho,Idaho Falls
+93,Twimm,10631555,3384474,7247081,1.61,Industrial Machinery/Components,United States,New York,Buffalo
+94,Riffpath,1497412,4689131,-3191719,3.37,n/a,United States,Illinois,Chicago
+95,Trudeo,3197368,8919464,-5722096,0.24,Major Pharmaceuticals,United States,California,Los Angeles
+96,Livetube,14691457,8613083,6078374,4.49,Power Generation,United States,New York,Brooklyn
+97,Midel,17953201,738807,17214394,2.86,n/a,United States,Kansas,Wichita
+98,Innojam,2983402,9064364,-6080962,1.55,EDP Services,United States,Delaware,Newark
+99,Kwideo,7574067,661606,6912461,1.19,Commercial Banks,United States,Minnesota,Minneapolis
+100,Skyndu,18194656,9350757,8843899,2.27,Oil & Gas Production,United States,California,San Rafael
+101,Jabbercube,14978203,5509848,9468355,3.09,EDP Services,United States,Colorado,Denver
+102,Realcube,9827874,8558203,1269671,0.73,Semiconductors,United States,Connecticut,Hartford
+103,Yodel,10913236,9644163,1269073,2.78,n/a,United States,California,San Jose
+104,Shufflester,6002706,6199746,-197040,2.99,Natural Gas Distribution,United States,Alabama,Birmingham
+105,Photospace,1170976,7983185,-6812209,2.48,n/a,United States,Kansas,Wichita
+106,Edgetag,11920612,7517884,4402728,0.65,Major Banks,United States,Ohio,Cincinnati
+107,Voonyx,11373707,6286606,5087101,1.67,Biotechnology: Biological Products (No Diagnostic Substances),United States,Texas,Dallas
+108,Layo,7921156,5338894,2582262,0.98,n/a,United States,Colorado,Boulder
+109,Dynava,7928977,7496645,432332,1.61,Real Estate Investment Trusts,United States,Texas,Austin
+110,Meemm,16413785,4171449,12242336,0.19,Finance/Investors Services,United States,Iowa,Des Moines
+111,Centizu,6861114,6084922,776192,4.07,Major Banks,United States,Texas,El Paso
+112,Livetube,2565398,9984453,-7419055,0.78,Meat/Poultry/Fish,United States,Texas,Dallas
+113,Shufflebeat,19173952,8662541,10511411,2.36,Other Consumer Services,United States,Arkansas,Little Rock
+114,Quaxo,15381553,5412397,9969156,3.62,n/a,United States,California,Irvine
+115,Vipe,13405357,5165973,8239384,0.87,Other Pharmaceuticals,United States,Colorado,Denver
+116,Centidel,10874907,6339427,4535480,0.19,Major Pharmaceuticals,United States,Oklahoma,Tulsa
+117,Zooveo,8091407,7082547,1008860,0.16,Integrated oil Companies,United States,Virginia,Roanoke
+118,Tambee,1147696,8618852,-7471156,0.99,Computer Software: Prepackaged Software,United States,West Virginia,Charleston
+119,Twinte,17083374,2158023,14925351,1.46,Real Estate Investment Trusts,United States,Kansas,Shawnee Mission
+120,Eimbee,8557055,9326250,-769195,2.85,Major Chemicals,United States,Texas,Waco
+121,Livetube,15202459,3291206,11911253,2.4,n/a,United States,New York,Elmira
+122,Snaptags,19381450,8545982,10835468,4.31,Major Banks,United States,California,San Diego
+123,Voomm,6391326,2894037,3497289,1.5,n/a,United States,Texas,Lubbock
+124,Viva,14380330,5399497,8980833,0.47,Real Estate Investment Trusts,United States,Virginia,Newport News
+125,Oyoba,9695808,3736375,5959433,4.31,Business Services,United States,Alabama,Birmingham
+126,Viva,14851426,7708503,7142923,2.9,n/a,United States,Pennsylvania,Harrisburg
+127,Skyndu,10833947,7524795,3309152,2.08,Semiconductors,United States,District of Columbia,Washington
+128,Wordpedia,6492328,6953759,-461431,1.38,EDP Services,United States,Pennsylvania,Philadelphia
+129,Vinte,1009904,2434936,-1425032,4.33,Homebuilding,United States,Arizona,Phoenix
+130,Realcube,18535141,8094694,10440447,3.89,Computer Software: Prepackaged Software,United States,Arizona,Phoenix
+131,Cogibox,1323465,8402958,-7079493,1.61,Life Insurance,United States,California,San Diego
+132,Edgetag,1128834,4079517,-2950683,2.2,Property-Casualty Insurers,United States,New Jersey,Trenton
+133,Katz,1133863,4115386,-2981523,0.79,Major Chemicals,United States,New York,New York City
+134,Podcat,3796263,8067589,-4271326,2.36,Finance: Consumer Services,United States,Oklahoma,Tulsa
+135,Edgeclub,8165312,6502823,1662489,3.82,Oil & Gas Production,United States,Florida,Pompano Beach
+136,Babbleblab,12177573,1154537,11023036,2.09,Mining & Quarrying of Nonmetallic Minerals (No Fuels),United States,Ohio,Dayton
+137,Skyvu,6328483,7499204,-1170721,1.68,Computer Software: Prepackaged Software,United States,Arizona,Phoenix
+138,Kwimbee,11687982,8715002,2972980,2.28,Radio And Television Broadcasting And Communications Equipment,United States,South Carolina,Columbia
+139,Wordpedia,1668143,3317046,-1648903,0.41,n/a,United States,Texas,Houston
+140,Ailane,12411008,5789092,6621916,2.59,Diversified Commercial Services,United States,Georgia,Augusta
+141,Camido,17659724,6090008,11569716,1.91,Major Pharmaceuticals,United States,California,Los Angeles
+142,Fivespan,9372009,9603929,-231920,4.23,Business Services,United States,Texas,Austin
+143,Camido,2092474,4226592,-2134118,2.87,Major Banks,United States,Washington,Seattle
+144,Voomm,17481676,6133893,11347783,0.35,n/a,United States,Virginia,Lynchburg
+145,Flashspan,10454723,6779814,3674909,1.27,n/a,United States,Ohio,Lima
+146,LiveZ,19503738,3156409,16347329,2.77,n/a,United States,Washington,Spokane
+147,Skimia,15873726,5658622,10215104,4.19,Meat/Poultry/Fish,United States,Missouri,Springfield
+148,Centidel,5083160,3225543,1857617,2.02,n/a,United States,Alabama,Tuscaloosa
+149,Realfire,1294608,5714669,-4420061,2.45,Investment Managers,United States,Arizona,Phoenix
+150,Reallinks,5110049,1261811,3848238,0.41,Building Products,United States,West Virginia,Huntington
+151,Browsedrive,14626994,5361521,9265473,0.59,Business Services,United States,Massachusetts,Boston
+152,Zoombox,10537581,1972930,8564651,4.02,n/a,United States,Indiana,Terre Haute
+153,Kanoodle,9806361,3666911,6139450,2.98,n/a,United States,Ohio,Dayton
+154,Babbleblab,6847090,8582315,-1735225,2.16,Real Estate Investment Trusts,United States,Texas,El Paso
+155,Oba,10144396,8007153,2137243,0.26,Industrial Machinery/Components,United States,Virginia,Richmond
+156,Dablist,14354263,9153548,5200715,4.23,Major Pharmaceuticals,United States,Texas,Houston
+157,Fanoodle,9189500,852875,8336625,0.85,n/a,United States,Ohio,Columbus
+158,Dynabox,11921565,8452934,3468631,1.34,Restaurants,United States,Missouri,Kansas City
+159,Photobug,4294725,6231849,-1937124,1.97,Computer Software: Prepackaged Software,United States,Ohio,Columbus
+160,Rhybox,1525423,9768983,-8243560,2.8,Steel/Iron Ore,United States,Nevada,Las Vegas
+161,Wikizz,13856433,2673078,11183355,3.91,Investment Managers,United States,Ohio,Canton
+162,Chatterpoint,1721111,6312662,-4591551,4.15,n/a,United States,Pennsylvania,York
+163,Agimba,8181556,3040421,5141135,1.56,Major Pharmaceuticals,United States,Florida,West Palm Beach
+164,Jazzy,12150055,1932005,10218050,0.95,Professional Services,United States,Ohio,Columbus
+165,Yadel,10064131,2183296,7880835,2.58,Major Banks,United States,Ohio,Columbus
+166,Fiveclub,15723118,8005395,7717723,1.62,Business Services,United States,Ohio,Akron
+167,Topicshots,1022643,3474251,-2451608,1.06,Engineering & Construction,United States,Michigan,Detroit
+168,Fiveclub,18920154,2355208,16564946,2.72,"Computer Software: Programming, Data Processing",United States,Pennsylvania,Pittsburgh
+169,Zava,16921537,2846363,14075174,3.1,Metal Fabrications,United States,Tennessee,Knoxville
+170,BlogXS,6095478,4166977,1928501,1.41,Major Banks,United States,Florida,Daytona Beach
+171,Innotype,18859324,7380383,11478941,3.44,Real Estate Investment Trusts,United States,Pennsylvania,Wilkes Barre
+172,Ntag,11606260,4226116,7380144,0.13,Biotechnology: Biological Products (No Diagnostic Substances),United States,Florida,Fort Lauderdale
+173,Riffpedia,9253404,1067393,8186011,2.49,n/a,United States,Utah,Salt Lake City
+174,Brainlounge,11021303,1130896,9890407,3.2,Farming/Seeds/Milling,United States,District of Columbia,Washington
+175,Mydeo,7394159,6210603,1183556,3.35,Packaged Foods,United States,Maryland,Baltimore
+176,Blogtag,8680011,1215819,7464192,4.25,Fluid Controls,United States,Georgia,Atlanta
+177,Wikivu,7235554,515652,6719902,4.19,Industrial Machinery/Components,United States,Georgia,Augusta
+178,Twitterbridge,9561801,3992357,5569444,1.49,Business Services,United States,Pennsylvania,Erie
+179,Centimia,9655416,1999654,7655762,4.05,Major Banks,United States,Tennessee,Memphis
+180,Linkbridge,14998540,3758998,11239542,1.01,n/a,United States,Arizona,Chandler
+181,Feedbug,11130020,5669346,5460674,2.79,Major Pharmaceuticals,United States,Florida,Miami
+182,Tanoodle,13774032,5463912,8310120,0.45,Electrical Products,United States,West Virginia,Huntington
+183,Skyba,15080752,9926416,5154336,1.42,n/a,United States,Pennsylvania,Pittsburgh
+184,Livetube,1077104,1266184,-189080,3.52,Computer Software: Prepackaged Software,United States,California,Pasadena
+185,Centizu,15575963,3788121,11787842,0.94,Savings Institutions,United States,Texas,Tyler
+186,Fadeo,13999821,2266916,11732905,3.28,Major Chemicals,United States,Kentucky,Lexington
+187,Rhyzio,1957888,2387769,-429881,3.02,Hospital/Nursing Management,United States,Texas,Dallas
+188,Ntag,17954593,1500207,16454386,1.33,Electric Utilities: Central,United States,South Carolina,Charleston
+189,Jabberbean,8436943,3250572,5186371,2.17,Computer Software: Prepackaged Software,United States,Arizona,Mesa
+190,Realbuzz,2450020,9717606,-7267586,0.39,n/a,United States,Texas,Huntsville
+191,Gabtune,4841077,8264667,-3423590,1.78,Finance: Consumer Services,United States,Texas,Midland
+192,Kaymbo,5439147,3905494,1533653,0.44,Telecommunications Equipment,United States,Illinois,Bloomington
+193,Skipfire,3080503,5682040,-2601537,2.08,n/a,United States,California,Mountain View
+194,Centizu,10772483,5621812,5150671,1.76,EDP Services,United States,New York,Syracuse
+195,Flipopia,14710100,8325521,6384579,0.73,n/a,United States,Michigan,Dearborn
+196,Browsezoom,3896070,1708027,2188043,2.48,Paper,United States,Texas,Amarillo
+197,Vipe,2685251,9911174,-7225923,4.11,Packaged Foods,United States,Utah,Salt Lake City
+198,Skyvu,19830401,8898917,10931484,3.48,Major Banks,United States,New York,Buffalo
+199,Demivee,3955420,9010855,-5055435,1.57,Auto Parts:O.E.M.,United States,North Carolina,Durham
+200,Buzzster,7461463,8263343,-801880,2.54,n/a,United States,South Carolina,Charleston
+201,Mynte,17720754,8874091,8846663,3.56,n/a,United States,Maryland,Rockville
+202,Thoughtbridge,12815431,2783423,10032008,0.31,Medical Specialities,United States,Illinois,Peoria
+203,Trudeo,15797176,4418140,11379036,4.29,Real Estate Investment Trusts,United States,Florida,Pompano Beach
+204,Meevee,6112851,2597565,3515286,2.7,EDP Services,United States,Colorado,Aurora
+205,Youopia,10126517,6673882,3452635,4.45,Major Pharmaceuticals,United States,Washington,Seattle
+206,Plajo,2774860,9873995,-7099135,1.96,Major Banks,United States,Texas,Lubbock
+207,Feedfish,18263132,2462514,15800618,0.94,Property-Casualty Insurers,United States,Texas,Houston
+208,Avaveo,7648587,4501335,3147252,0.92,Consumer Electronics/Video Chains,United States,Indiana,Indianapolis
+209,Realbuzz,5408672,6673827,-1265155,2.53,Oil & Gas Production,United States,Virginia,Richmond
+210,Pixonyx,4526794,4132686,394108,0.53,Specialty Chemicals,United States,Georgia,Columbus
+211,Youfeed,2870787,6496407,-3625620,2.33,Metal Fabrications,United States,Mississippi,Jackson
+212,Skipfire,12443834,7786381,4657453,4.14,Major Banks,United States,Pennsylvania,Pittsburgh
+213,Quinu,12150267,2168228,9982039,1.13,Major Pharmaceuticals,United States,Utah,Salt Lake City
+214,Thoughtworks,17536873,9187133,8349740,2.51,EDP Services,United States,California,North Hollywood
+215,Brightbean,11180325,8512549,2667776,2.21,Major Pharmaceuticals,United States,Idaho,Boise
+216,Meemm,18823372,2581611,16241761,0.1,Telecommunications Equipment,United States,California,San Bernardino
+217,Jaxspan,4710702,5987854,-1277152,3.34,Other Consumer Services,United States,Washington,Spokane
+218,Wikizz,15932211,1651900,14280311,4.24,Major Pharmaceuticals,United States,Florida,Boynton Beach
+219,Aibox,3208433,8362875,-5154442,3.87,Major Banks,United States,Oregon,Eugene
+220,Flashdog,6415904,5120146,1295758,2.79,Hotels/Resorts,United States,Texas,Dallas
+221,Devpulse,4206866,5818546,-1611680,3.18,Major Banks,United States,Texas,Houston
+222,Babbleset,12222605,3271020,8951585,1.25,Industrial Machinery/Components,United States,Massachusetts,Boston
+223,Skalith,8473286,4404470,4068816,0.74,Real Estate Investment Trusts,United States,California,Oakland
+224,Devshare,3547300,3250681,296619,3.83,Investment Managers,United States,Florida,Orlando
+225,Skiba,4096085,2492536,1603549,2.74,Major Pharmaceuticals,United States,Pennsylvania,Pittsburgh
+226,Kamba,5669225,2541585,3127640,2.68,Business Services,United States,California,Huntington Beach
+227,Plambee,6439078,6154811,284267,3.82,Oil & Gas Production,United States,Texas,El Paso
+228,Zoovu,10376358,1305800,9070558,1.49,n/a,United States,Alabama,Birmingham
+229,Demizz,17079955,3785016,13294939,0.31,n/a,United States,Texas,El Paso
+230,Feedbug,6606026,4094765,2511261,0.36,Precious Metals,United States,Georgia,Lawrenceville
+231,Livefish,12025167,5205215,6819952,0.95,Specialty Foods,United States,California,Sacramento
+232,Meevee,13391530,3133982,10257548,3.64,Radio And Television Broadcasting And Communications Equipment,United States,Oregon,Portland
+233,Photofeed,5428907,2069969,3358938,1.05,Radio And Television Broadcasting And Communications Equipment,United States,California,San Francisco
+234,Blogpad,7834061,2104924,5729137,3.23,n/a,United States,Michigan,Troy
+235,Geba,17430779,736889,16693890,1.55,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,Kansas,Wichita
+236,Yata,5569037,1315437,4253600,2.83,Medical/Dental Instruments,United States,New York,Buffalo
+237,Blogpad,8048615,1043726,7004889,2.51,Real Estate Investment Trusts,United States,Illinois,Rockford
+238,Voonte,1627112,3354597,-1727485,0.29,n/a,United States,Ohio,Columbus
+239,Realpoint,13790163,4785337,9004826,2.59,Building operators,United States,Idaho,Boise
+240,Jabbertype,17209826,8333173,8876653,3.84,Semiconductors,United States,California,San Diego
+241,Vinte,6411026,7297286,-886260,0.51,Department/Specialty Retail Stores,United States,California,San Francisco
+242,Bluejam,16141760,756403,15385357,4.44,Recreational Products/Toys,United States,California,Fullerton
+243,Blogtag,12792350,5449080,7343270,3.08,Metal Fabrications,United States,Missouri,Kansas City
+244,Riffpath,19417085,1169912,18247173,4.39,Biotechnology: Biological Products (No Diagnostic Substances),United States,Utah,Salt Lake City
+245,Voonder,15359397,6204816,9154581,0.58,n/a,United States,District of Columbia,Washington
+246,Gabcube,10452725,8843809,1608916,4.22,n/a,United States,California,Carlsbad
+247,Realcube,18760266,9840845,8919421,3.72,Real Estate,United States,Washington,Vancouver
+248,Browseblab,7455384,3509718,3945666,1.91,Telecommunications Equipment,United States,Texas,Dallas
+249,Browsebug,14954481,3895341,11059140,2.45,n/a,United States,Ohio,Dayton
+250,Dynabox,2537501,2975282,-437781,0.92,Telecommunications Equipment,United States,District of Columbia,Washington
+251,Mymm,11943855,906872,11036983,1.66,Industrial Specialties,United States,Georgia,Augusta
+252,Cogibox,6433751,8782352,-2348601,1.93,n/a,United States,Illinois,Carol Stream
+253,Tazz,9903441,5694394,4209047,4.05,Oil & Gas Production,United States,Kentucky,Frankfort
+254,Fivespan,15355378,1660119,13695259,0.71,Industrial Machinery/Components,United States,Ohio,Dayton
+255,Nlounge,7591118,4633604,2957514,1.27,Telecommunications Equipment,United States,Pennsylvania,Erie
+256,Wikizz,7187392,9302540,-2115148,4.25,Business Services,United States,Illinois,Chicago
+257,Meeveo,8629036,5649460,2979576,1.41,n/a,United States,Virginia,Ashburn
+258,Demimbu,6105598,1734714,4370884,1.81,Semiconductors,United States,New York,Staten Island
+259,Buzzdog,16385762,4090373,12295389,0.34,Biotechnology: Biological Products (No Diagnostic Substances),United States,Georgia,Columbus
+260,Divape,19186973,4391611,14795362,3.04,Computer Software: Prepackaged Software,United States,Texas,Corpus Christi
+261,Eabox,14166621,9543567,4623054,2.6,Radio And Television Broadcasting And Communications Equipment,United States,West Virginia,Huntington
+262,Youspan,8395560,2058725,6336835,4.16,n/a,United States,Illinois,Peoria
+263,Oozz,19603010,4152182,15450828,1.12,Packaged Foods,United States,California,Chico
+264,Gabtune,9221092,4389178,4831914,0.74,Major Pharmaceuticals,United States,California,Santa Monica
+265,Omba,12140880,5409935,6730945,0.43,n/a,United States,Ohio,Canton
+266,Devpoint,2573158,2605509,-32351,2.68,Industrial Machinery/Components,United States,Iowa,Des Moines
+267,Trupe,11331149,1739165,9591984,2.95,Medical Specialities,United States,Utah,Salt Lake City
+268,Yombu,3776244,2710150,1066094,2.15,n/a,United States,Michigan,Grand Rapids
+269,Meetz,18226291,4950580,13275711,2.06,Metal Fabrications,United States,Massachusetts,Waltham
+270,Lajo,3522364,6053315,-2530951,0.45,Industrial Machinery/Components,United States,Minnesota,Young America
+271,Demizz,2165958,4692400,-2526442,2.63,Investment Bankers/Brokers/Service,United States,Texas,San Antonio
+272,Wordify,9370077,9933740,-563663,1.01,Computer Software: Prepackaged Software,United States,California,Hayward
+273,Fadeo,13121667,1918485,11203182,1.01,Oilfield Services/Equipment,United States,California,Burbank
+274,Devshare,17864140,1377641,16486499,1.21,Business Services,United States,Maryland,Baltimore
+275,Fiveclub,17368088,2091595,15276493,1.4,n/a,United States,Alaska,Anchorage
+276,Demimbu,1742542,7807584,-6065042,3.11,Major Pharmaceuticals,United States,Tennessee,Knoxville
+277,Meetz,16483516,9507589,6975927,2.83,Engineering & Construction,United States,New York,New York City
+278,Jaxbean,1524444,4221892,-2697448,1.83,Marine Transportation,United States,Texas,Dallas
+279,Youtags,17987202,6871040,11116162,0.44,Major Pharmaceuticals,United States,Colorado,Colorado Springs
+280,Brightbean,8688211,3012753,5675458,4.13,n/a,United States,Texas,Waco
+281,Aimbo,6363584,8867639,-2504055,4.46,Services-Misc. Amusement & Recreation,United States,Missouri,Saint Louis
+282,Plambee,14398891,5157462,9241429,1.32,n/a,United States,Missouri,Kansas City
+283,Divavu,2525010,8478712,-5953702,0.11,Oil Refining/Marketing,United States,California,Los Angeles
+284,Livepath,3926573,7184183,-3257610,3.4,n/a,United States,Texas,Houston
+285,Jabberbean,18917605,4561099,14356506,1.04,Investment Managers,United States,Arkansas,North Little Rock
+286,Zoonoodle,19689460,8849141,10840319,2.27,n/a,United States,Texas,Texarkana
+287,Mudo,14133282,4987057,9146225,0.71,Other Consumer Services,United States,Texas,San Antonio
+288,Kwideo,10470308,4711383,5758925,2.0,Hotels/Resorts,United States,Texas,Wichita Falls
+289,Skinix,7096937,2813175,4283762,2.18,Major Pharmaceuticals,United States,Arkansas,Little Rock
+290,Babbleopia,19790898,2672767,17118131,0.68,Farming/Seeds/Milling,United States,California,San Diego
+291,Lazzy,8856835,4968275,3888560,3.93,n/a,United States,Delaware,Newark
+292,Thoughtblab,3783798,1058496,2725302,2.62,n/a,United States,Pennsylvania,Philadelphia
+293,Riffpedia,5945257,6364187,-418930,1.39,Construction/Ag Equipment/Trucks,United States,Virginia,Roanoke
+294,Oodoo,10443707,4440750,6002957,1.27,n/a,United States,District of Columbia,Washington
+295,Bluezoom,2072493,5588317,-3515824,0.75,n/a,United States,Louisiana,Alexandria
+296,Realmix,19859392,9948212,9911180,3.72,Natural Gas Distribution,United States,Kentucky,Louisville
+297,Voomm,6661621,4119798,2541823,0.47,Television Services,United States,Texas,Dallas
+298,Trudeo,4606850,2339604,2267246,3.61,Life Insurance,United States,Texas,Amarillo
+299,Tagtune,9846870,4781390,5065480,4.49,Medical/Dental Instruments,United States,Minnesota,Minneapolis
+300,Minyx,7416133,4157899,3258234,3.37,Forest Products,United States,South Carolina,Charleston
+301,Realmix,11152157,5818426,5333731,2.1,n/a,United States,South Carolina,Columbia
+302,Oyondu,18892674,2086283,16806391,0.65,Ordnance And Accessories,United States,Indiana,Evansville
+303,Eayo,19264774,5572249,13692525,3.24,Major Pharmaceuticals,United States,Pennsylvania,Valley Forge
+304,Topicstorm,15931719,9631569,6300150,2.18,n/a,United States,California,San Jose
+305,Twitterwire,8629732,3741295,4888437,1.73,Package Goods/Cosmetics,United States,New York,New York City
+306,Meevee,6276237,3774922,2501315,2.3,n/a,United States,Florida,Fort Lauderdale
+307,Twitterwire,15232798,6203365,9029433,2.28,Specialty Foods,United States,Virginia,Alexandria
+308,Rhycero,10074049,4123845,5950204,2.16,n/a,United States,California,Sacramento
+309,Dazzlesphere,5860657,4422689,1437968,1.15,Real Estate Investment Trusts,United States,Illinois,Springfield
+310,Skimia,8239686,5932254,2307432,0.12,Auto Parts:O.E.M.,United States,District of Columbia,Washington
+311,Feedmix,7244791,4344134,2900657,3.14,Industrial Machinery/Components,United States,Texas,Pasadena
+312,Avamba,5086987,9952683,-4865696,1.29,n/a,United States,Tennessee,Nashville
+313,Blogtags,1636296,655639,980657,3.88,n/a,United States,Missouri,Kansas City
+314,Skinix,9412773,6703237,2709536,1.65,Real Estate Investment Trusts,United States,Nevada,Reno
+315,Meedoo,9018627,3335428,5683199,0.31,Major Banks,United States,Alaska,Fairbanks
+316,Skivee,14439636,9419470,5020166,2.44,Savings Institutions,United States,Colorado,Denver
+317,Layo,12421947,5921684,6500263,3.03,n/a,United States,New York,Brooklyn
+318,Edgetag,17392077,7719824,9672253,2.03,Investment Bankers/Brokers/Service,United States,Nebraska,Omaha
+319,Thoughtstorm,14724109,2578535,12145574,2.49,Broadcasting,United States,New York,Staten Island
+320,Skimia,14053848,1395014,12658834,2.79,n/a,United States,Florida,Jacksonville
+321,Rhynyx,5740952,8361489,-2620537,1.46,Metal Fabrications,United States,Wisconsin,Madison
+322,Meejo,11098589,5703936,5394653,2.43,Real Estate Investment Trusts,United States,District of Columbia,Washington
+323,Photolist,11331245,519048,10812197,2.05,n/a,United States,New York,Staten Island
+324,Leenti,2089440,6388685,-4299245,1.91,Home Furnishings,United States,California,San Diego
+325,Centidel,6478528,5199590,1278938,2.43,Marine Transportation,United States,Ohio,Toledo
+326,Rooxo,15844939,2227302,13617637,3.1,n/a,United States,Ohio,Toledo
+327,Minyx,7047894,6257821,790073,0.89,Natural Gas Distribution,United States,Texas,Dallas
+328,Innojam,10861693,8737700,2123993,2.95,Investment Bankers/Brokers/Service,United States,Delaware,Wilmington
+329,Skimia,7048708,553217,6495491,4.31,Real Estate Investment Trusts,United States,Tennessee,Knoxville
+330,Reallinks,18590119,9810844,8779275,4.44,Industrial Machinery/Components,United States,Pennsylvania,Wilkes Barre
+331,Avamm,10400252,5779328,4620924,4.4,Major Banks,United States,Oregon,Portland
+332,Demizz,10794753,2848837,7945916,3.88,Commercial Banks,United States,Florida,Tampa
+333,Tazzy,15381870,6956165,8425705,3.77,Medical/Dental Instruments,United States,Texas,El Paso
+334,Photobug,1013000,5673073,-4660073,2.35,Industrial Machinery/Components,United States,Florida,Bradenton
+335,Meejo,17267976,9230021,8037955,2.37,Steel/Iron Ore,United States,Ohio,Akron
+336,Devbug,2426099,3365634,-939535,0.83,Biotechnology: Biological Products (No Diagnostic Substances),United States,Oklahoma,Oklahoma City
+337,Demimbu,12222363,2463257,9759106,3.83,n/a,United States,Indiana,Indianapolis
+338,Youbridge,9709899,8988448,721451,2.12,Services-Misc. Amusement & Recreation,United States,Washington,Seattle
+339,Buzzbean,3296605,6590476,-3293871,3.07,Hotels/Resorts,United States,California,Corona
+340,Wordpedia,5007159,5955549,-948390,1.13,Major Pharmaceuticals,United States,Illinois,Springfield
+341,Yakitri,5524874,6356211,-831337,4.08,n/a,United States,Hawaii,Honolulu
+342,Babbleopia,19365600,2287083,17078517,0.21,EDP Services,United States,Virginia,Fredericksburg
+343,Chatterpoint,6452405,4645569,1806836,2.04,Restaurants,United States,Missouri,Kansas City
+344,Skiba,15524853,4409139,11115714,2.92,n/a,United States,Texas,El Paso
+345,Riffwire,19418974,2153231,17265743,0.96,Telecommunications Equipment,United States,Indiana,Evansville
+346,Trilith,7799864,8157478,-357614,0.39,Air Freight/Delivery Services,United States,California,San Francisco
+347,Ntag,9993493,1648104,8345389,3.69,Radio And Television Broadcasting And Communications Equipment,United States,California,Riverside
+348,Jabbersphere,5814935,9703502,-3888567,1.82,Real Estate Investment Trusts,United States,Ohio,Columbus
+349,Skimia,1787397,4128469,-2341072,1.87,Biotechnology: In Vitro & In Vivo Diagnostic Substances,United States,Florida,Saint Petersburg
+350,Dabjam,1707274,798754,908520,1.11,Property-Casualty Insurers,United States,California,San Diego
+351,Roombo,3591790,4432828,-841038,1.22,Major Banks,United States,California,Santa Rosa
+352,Camimbo,10743703,2832530,7911173,0.15,Major Banks,United States,Ohio,Columbus
+353,Skidoo,12682570,2497817,10184753,0.17,Major Banks,United States,Missouri,Saint Louis
+354,Babbleopia,4183832,3178862,1004970,0.56,Oil & Gas Production,United States,New York,Buffalo
+355,Kamba,15420226,1310870,14109356,4.11,Movies/Entertainment,United States,Pennsylvania,Harrisburg
+356,Dabfeed,8440814,4274219,4166595,3.12,Major Banks,United States,Connecticut,Danbury
+357,Thoughtstorm,19409069,7128372,12280697,0.29,n/a,United States,Kentucky,Migrate
+358,Browsezoom,3365492,8972671,-5607179,1.75,Biotechnology: Laboratory Analytical Instruments,United States,Connecticut,Waterbury
+359,Skidoo,12668644,8422480,4246164,3.76,Containers/Packaging,United States,California,Sacramento
+360,Fadeo,4446776,6900089,-2453313,4.27,Major Banks,United States,California,San Bernardino
+361,Abatz,19748529,7874281,11874248,4.22,Oilfield Services/Equipment,United States,District of Columbia,Washington
+362,Dazzlesphere,1686695,4307849,-2621154,3.22,Biotechnology: Biological Products (No Diagnostic Substances),United States,Florida,Miami
+363,Voolia,18949006,8155901,10793105,4.27,Business Services,United States,Texas,El Paso
+364,Buzzshare,4919667,5500431,-580764,2.11,Medical Specialities,United States,New York,New Hyde Park
+365,Trilia,12789271,4667678,8121593,2.51,n/a,United States,Florida,Orlando
+366,Aimbu,16884337,1889517,14994820,1.79,Electric Utilities: Central,United States,Kentucky,Lexington
+367,Quatz,6818597,5071249,1747348,1.07,Other Specialty Stores,United States,South Carolina,Myrtle Beach
+368,Fadeo,6351244,6016349,334895,1.62,Major Banks,United States,North Carolina,Raleigh
+369,Voomm,16612891,6587524,10025367,3.48,Banks,United States,Florida,Winter Haven
+370,Flashpoint,19419797,5732406,13687391,1.22,Major Banks,United States,Texas,Laredo
+371,Edgeblab,5725518,3373603,2351915,4.37,n/a,United States,Ohio,Toledo
+372,Zoonder,5573694,4735672,838022,0.18,n/a,United States,Illinois,Peoria
+373,Riffpedia,1185666,8467871,-7282205,3.23,Investment Managers,United States,California,San Bernardino
+374,Zoomdog,9995922,4248272,5747650,3.13,n/a,United States,Indiana,Indianapolis
+375,Avavee,16956645,7627029,9329616,3.11,Restaurants,United States,Alabama,Huntsville
+376,Skiptube,11675999,5073140,6602859,2.45,n/a,United States,Florida,West Palm Beach
+377,Devshare,16297784,3880208,12417576,2.7,Computer Software: Prepackaged Software,United States,North Dakota,Bismarck
+378,Kwinu,19810894,8286855,11524039,2.81,Apparel,United States,Virginia,Roanoke
+379,Meevee,16270683,732963,15537720,0.34,Apparel,United States,Texas,El Paso
+380,Rooxo,18772789,1029014,17743775,3.5,Water Supply,United States,Virginia,Richmond
+381,Mynte,19322265,1617639,17704626,0.33,n/a,United States,Washington,Bellevue
+382,Ooba,3811914,1035140,2776774,3.65,Biotechnology: Laboratory Analytical Instruments,United States,Texas,Austin
+383,Flipopia,1450699,1252530,198169,2.76,Water Supply,United States,Washington,Seattle
+384,Livetube,14899845,4572807,10327038,4.25,Construction/Ag Equipment/Trucks,United States,California,Newport Beach
+385,Demizz,16036527,3608177,12428350,3.14,Automotive Aftermarket,United States,Pennsylvania,Pittsburgh
+386,Topicblab,16260622,2826482,13434140,3.13,n/a,United States,New York,Mount Vernon
+387,Meetz,17302465,4388022,12914443,1.66,Business Services,United States,Virginia,Roanoke
+388,Brainlounge,4553138,7678817,-3125679,0.22,Major Pharmaceuticals,United States,Michigan,Lansing
+389,Realblab,10177436,5769574,4407862,0.99,Military/Government/Technical,United States,Pennsylvania,Pittsburgh
+390,Quimm,16121337,9189047,6932290,3.91,Major Banks,United States,Louisiana,New Orleans
+391,Tagfeed,7073093,3727956,3345137,1.27,Agricultural Chemicals,United States,North Carolina,Greensboro
+392,Dabtype,13981580,2780463,11201117,1.31,Major Pharmaceuticals,United States,Minnesota,Minneapolis
+393,Yambee,10408265,4735154,5673111,0.8,Finance: Consumer Services,United States,New York,Flushing
+394,Aimbo,17931386,4818863,13112523,0.77,Medical/Dental Instruments,United States,New York,Rochester
+395,Topicstorm,14746966,6370186,8376780,2.35,Real Estate Investment Trusts,United States,California,Sacramento
+396,Skinder,11763824,9924133,1839691,2.5,Broadcasting,United States,Nevada,Las Vegas
+397,Leenti,11652060,6883608,4768452,0.26,Real Estate,United States,Ohio,Cleveland
+398,Dynabox,11021795,6933333,4088462,1.86,n/a,United States,Louisiana,Baton Rouge
+399,Linklinks,6677652,8135254,-1457602,1.94,Finance/Investors Services,United States,California,Fullerton
+400,Devbug,14134830,9624590,4510240,0.48,Industrial Machinery/Components,United States,Wisconsin,Madison
+401,Gabvine,18310138,8515473,9794665,1.91,Banks,United States,Arizona,Phoenix
+402,Buzzbean,5095722,8278775,-3183053,4.23,Major Pharmaceuticals,United States,Florida,Tampa
+403,Cogibox,4306644,2134020,2172624,4.32,Real Estate,United States,Pennsylvania,Philadelphia
+404,Divanoodle,16707922,4210155,12497767,0.78,Automotive Aftermarket,United States,New Mexico,Santa Fe
+405,Zooveo,16674318,2637425,14036893,0.7,Electronic Components,United States,New York,Hicksville
+406,Trudoo,15626642,3046721,12579921,1.07,Biotechnology: Biological Products (No Diagnostic Substances),United States,District of Columbia,Washington
+407,Skyndu,14781918,2775362,12006556,1.84,Multi-Sector Companies,United States,Maryland,Baltimore
+408,Gabvine,13618377,5407897,8210480,1.34,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,New Jersey,Trenton
+409,Digitube,19367769,1336392,18031377,0.77,Business Services,United States,Nebraska,Lincoln
+410,Kanoodle,3867843,5481585,-1613742,3.81,Commercial Banks,United States,California,Sacramento
+411,Quatz,19058629,3233353,15825276,4.23,n/a,United States,Colorado,Aurora
+412,Leenti,11029956,8666841,2363115,2.37,Medical/Dental Instruments,United States,Iowa,Des Moines
+413,Avamm,9076999,9055932,21067,0.15,n/a,United States,New York,Brooklyn
+414,Meevee,13257023,8322585,4934438,4.5,Major Pharmaceuticals,United States,Florida,Punta Gorda
+415,Jaxworks,15990458,3523801,12466657,0.99,Industrial Machinery/Components,United States,Missouri,Kansas City
+416,Gigazoom,17865334,4403661,13461673,1.59,Precious Metals,United States,South Dakota,Sioux Falls
+417,Dabfeed,16416247,6230481,10185766,1.43,Broadcasting,United States,Indiana,Fort Wayne
+418,Linkbuzz,16585324,9742497,6842827,1.39,n/a,United States,California,Simi Valley
+419,Quimba,6384283,2887732,3496551,0.95,n/a,United States,Missouri,Kansas City
+420,Eire,19200409,1690103,17510306,1.93,Specialty Insurers,United States,Ohio,Cincinnati
+421,Kare,12271378,1187725,11083653,3.71,n/a,United States,Ohio,Akron
+422,Flipopia,3462302,4611939,-1149637,2.83,Farming/Seeds/Milling,United States,New Jersey,Jersey City
+423,Twiyo,2591801,8181801,-5590000,1.81,Power Generation,United States,Virginia,Richmond
+424,Skilith,17995507,7319852,10675655,3.0,Real Estate,United States,Ohio,Cincinnati
+425,Jayo,4108313,6307448,-2199135,2.31,Oil & Gas Production,United States,Florida,Vero Beach
+426,Zoomlounge,5103521,9896627,-4793106,1.42,Marine Transportation,United States,Louisiana,Shreveport
+427,Quaxo,6149385,8696361,-2546976,4.22,Beverages (Production/Distribution),United States,Tennessee,Knoxville
+428,Zooxo,12131958,7628520,4503438,3.83,Major Banks,United States,Colorado,Pueblo
+429,Aivee,9719019,990895,8728124,0.67,Major Banks,United States,Minnesota,Saint Paul
+430,Eare,9390559,3165394,6225165,0.62,Construction/Ag Equipment/Trucks,United States,Pennsylvania,Philadelphia
+431,Voomm,7015160,2958243,4056917,2.37,n/a,United States,California,Oakland
+432,Vinder,14163575,3423277,10740298,0.82,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,Virginia,Vienna
+433,Quimm,4704863,3580585,1124278,2.73,Real Estate Investment Trusts,United States,Indiana,South Bend
+434,Youspan,12122817,4955548,7167269,4.21,Movies/Entertainment,United States,California,Bakersfield
+435,Lajo,5916929,8063731,-2146802,2.41,n/a,United States,New York,Bronx
+436,Bluezoom,11595397,6672848,4922549,2.49,Medical/Dental Instruments,United States,Florida,Tampa
+437,Mymm,8887210,9052717,-165507,2.43,Automotive Aftermarket,United States,West Virginia,Huntington
+438,Yombu,1627322,8074655,-6447333,1.01,Major Pharmaceuticals,United States,Indiana,Muncie
+439,Trudoo,2589985,3111749,-521764,0.24,Other Consumer Services,United States,South Carolina,Aiken
+440,Zooveo,19119581,9306093,9813488,4.46,Major Pharmaceuticals,United States,Florida,Tampa
+441,Gabtype,14998191,4942022,10056169,3.59,Major Banks,United States,Florida,Jacksonville
+442,Dabtype,11029358,5902603,5126755,1.68,Investment Bankers/Brokers/Service,United States,North Carolina,Greensboro
+443,Eire,5833514,3690175,2143339,3.27,n/a,United States,New York,Albany
+444,Wikizz,6082812,8026602,-1943790,2.06,Electrical Products,United States,District of Columbia,Washington
+445,Brightdog,5728869,3252815,2476054,2.95,Trucking Freight/Courier Services,United States,Texas,El Paso
+446,Thoughtstorm,12993320,8577101,4416219,4.48,Real Estate Investment Trusts,United States,Alaska,Anchorage
+447,Feedspan,10254218,3062090,7192128,1.61,Trucking Freight/Courier Services,United States,Iowa,Davenport
+448,Quimba,3702138,3243533,458605,3.7,Electronic Components,United States,New York,Buffalo
+449,Chatterpoint,13252936,7291857,5961079,2.9,Containers/Packaging,United States,Florida,Miami
+450,Kanoodle,10949204,8233021,2716183,3.34,Advertising,United States,Arizona,Tucson
+451,Fiveclub,10445531,2090973,8354558,1.8,n/a,United States,Washington,Tacoma
+452,Skimia,12257423,3206654,9050769,3.31,Clothing/Shoe/Accessory Stores,United States,California,Santa Monica
+453,Zava,18426057,667857,17758200,2.43,n/a,United States,Minnesota,Saint Paul
+454,Eidel,18893258,6552922,12340336,0.97,Beverages (Production/Distribution),United States,California,Van Nuys
+455,Kwimbee,18035525,9682722,8352803,3.83,Major Pharmaceuticals,United States,Ohio,Canton
+456,Gevee,12341130,6147666,6193464,3.4,n/a,United States,Virginia,Arlington
+457,Fivebridge,4870732,3291045,1579687,4.1,n/a,United States,South Dakota,Sioux Falls
+458,Zoomzone,6940396,5873798,1066598,0.7,Major Pharmaceuticals,United States,Florida,Melbourne
+459,Rhynoodle,9442454,4360264,5082190,2.98,Coal Mining,United States,District of Columbia,Washington
+460,Twitterwire,18038903,5284889,12754014,2.13,Other Specialty Stores,United States,New York,New York City
+461,Browsedrive,15416820,5145655,10271165,0.7,Multi-Sector Companies,United States,Massachusetts,Brockton
+462,Tazz,18909878,7727006,11182872,1.89,n/a,United States,Texas,El Paso
+463,Brainbox,15820805,2668613,13152192,1.92,n/a,United States,Colorado,Denver
+464,Riffpath,1420202,9739535,-8319333,3.71,Major Pharmaceuticals,United States,Washington,Spokane
+465,Wikizz,1466698,7183636,-5716938,3.64,Oil & Gas Production,United States,Wisconsin,Madison
+466,Flashset,7284009,2207767,5076242,0.69,Packaged Foods,United States,Louisiana,Metairie
+467,Meembee,2233330,1696224,537106,0.23,Electric Utilities: Central,United States,Texas,El Paso
+468,Zoomdog,7547730,1482526,6065204,2.91,Industrial Machinery/Components,United States,Pennsylvania,Philadelphia
+469,Meetz,5947571,5359838,587733,4.46,Real Estate Investment Trusts,United States,New York,New York City
+470,Eamia,5269152,6096630,-827478,3.16,Major Pharmaceuticals,United States,West Virginia,Huntington
+471,Flashspan,4604346,5807543,-1203197,0.61,Major Pharmaceuticals,United States,California,San Diego
+472,Talane,10188500,4555549,5632951,3.31,Major Pharmaceuticals,United States,Colorado,Greeley
+473,Wikizz,10461000,6322717,4138283,1.43,n/a,United States,Texas,Waco
+474,Oba,11794707,3987094,7807613,1.84,Property-Casualty Insurers,United States,Utah,Salt Lake City
+475,Oyoloo,3166716,2571976,594740,4.1,Package Goods/Cosmetics,United States,Illinois,Bloomington
+476,Twitterlist,17600959,9590757,8010202,2.36,Coal Mining,United States,New Jersey,Elizabeth
+477,Layo,9199120,9703310,-504190,1.29,n/a,United States,California,Richmond
+478,Roombo,2015335,8480312,-6464977,3.84,Business Services,United States,California,Irvine
+479,Ailane,8083469,5758953,2324516,3.79,n/a,United States,Texas,Houston
+480,Flipopia,4234953,2197018,2037935,3.84,Major Chemicals,United States,Arizona,Phoenix
+481,Jetpulse,11368149,7518946,3849203,0.49,Investment Managers,United States,Mississippi,Jackson
+482,Tagtune,6895112,2805181,4089931,0.69,Major Pharmaceuticals,United States,Maryland,Baltimore
+483,Blogspan,9423392,9859245,-435853,3.71,n/a,United States,New York,Albany
+484,Skyble,4752107,2518677,2233430,4.3,Clothing/Shoe/Accessory Stores,United States,Florida,Tampa
+485,Fivespan,14684115,7494541,7189574,1.94,n/a,United States,Illinois,Peoria
+486,Skyvu,8706688,9464577,-757889,4.35,Major Pharmaceuticals,United States,Florida,Tampa
+487,Skyba,1676473,6520697,-4844224,1.42,Property-Casualty Insurers,United States,Texas,Waco
+488,Devbug,17223257,6517214,10706043,1.93,Oil & Gas Production,United States,Florida,Delray Beach
+489,Jaxnation,5279974,6569208,-1289234,4.47,Clothing/Shoe/Accessory Stores,United States,Texas,Dallas
+490,Katz,19125088,7253018,11872070,2.31,Business Services,United States,District of Columbia,Washington
+491,Voolia,12991724,5011619,7980105,4.15,Banks,United States,Florida,Miami
+492,Kare,11474605,797117,10677488,1.56,n/a,United States,Kansas,Shawnee Mission
+493,Dynazzy,7239543,4704392,2535151,3.29,Packaged Foods,United States,Kentucky,Louisville
+494,Skynoodle,17268269,9073186,8195083,1.24,Real Estate Investment Trusts,United States,Washington,Lakewood
+495,Brainlounge,13618472,1275302,12343170,3.27,Biotechnology: Commercial Physical & Biological Resarch,United States,California,Salinas
+496,Topicware,6016603,8289639,-2273036,2.7,Other Consumer Services,United States,Michigan,Grand Rapids
+497,Eayo,19270503,9694857,9575646,1.9,Metal Fabrications,United States,District of Columbia,Washington
+498,Feedmix,3813387,4950154,-1136767,2.61,n/a,United States,Hawaii,Honolulu
+499,Twitterlist,6488910,9148671,-2659761,0.22,Auto Parts:O.E.M.,United States,North Carolina,High Point
+500,Bluezoom,18595573,2864874,15730699,2.78,Major Banks,United States,Ohio,Canton
+501,Flipbug,8135498,1085293,7050205,3.32,n/a,United States,North Carolina,Charlotte
+502,Zoombeat,9802650,4423022,5379628,1.26,n/a,United States,District of Columbia,Washington
+503,Twitterbridge,17905212,3404905,14500307,0.16,Auto Manufacturing,United States,California,Los Angeles
+504,Livetube,12731138,6100321,6630817,1.09,Major Pharmaceuticals,United States,Iowa,Des Moines
+505,Photobean,15862661,4398373,11464288,1.89,n/a,United States,Georgia,Savannah
+506,Miboo,7866539,3556175,4310364,0.87,Miscellaneous manufacturing industries,United States,Massachusetts,Cambridge
+507,Blogtags,18973396,5372853,13600543,2.15,Other Consumer Services,United States,Florida,Jacksonville
+508,Topdrive,3408309,6132353,-2724044,3.0,RETAIL: Building Materials,United States,California,Hayward
+509,Fiveclub,17265627,4370208,12895419,3.2,Engineering & Construction,United States,Oklahoma,Oklahoma City
+510,Skinte,11890600,3076401,8814199,4.45,Major Banks,United States,Texas,Houston
+511,Demimbu,2527182,2878807,-351625,0.11,Semiconductors,United States,Michigan,Grand Rapids
+512,Wikido,3262818,5546756,-2283938,2.49,Electric Utilities: Central,United States,Nevada,Reno
+513,Zooveo,1517375,8303242,-6785867,1.63,Computer peripheral equipment,United States,California,Ventura
+514,Tagopia,11695842,5977349,5718493,2.41,n/a,United States,Florida,Brooksville
+515,Yamia,7799958,7704969,94989,2.57,Broadcasting,United States,Texas,Austin
+516,Topicshots,8383445,5587756,2795689,2.32,Beverages (Production/Distribution),United States,Colorado,Colorado Springs
+517,Gevee,16009132,1532191,14476941,3.56,Major Banks,United States,Maryland,Ridgely
+518,Skyvu,12959599,3724811,9234788,4.48,Department/Specialty Retail Stores,United States,Indiana,Muncie
+519,Devshare,3754281,6202472,-2448191,3.16,Computer Software: Prepackaged Software,United States,Oklahoma,Oklahoma City
+520,Tagcat,6269690,3021934,3247756,1.76,Power Generation,United States,Arizona,Phoenix
+521,Trilia,1175253,3330747,-2155494,2.73,Aluminum,United States,Ohio,Akron
+522,Oyoyo,11428418,5421014,6007404,2.17,n/a,United States,North Carolina,Charlotte
+523,Vipe,16198648,2597292,13601356,3.22,Natural Gas Distribution,United States,Missouri,Kansas City
+524,Shuffledrive,10066842,6581772,3485070,1.29,Industrial Machinery/Components,United States,Florida,Melbourne
+525,Omba,9414397,3707167,5707230,1.12,Coal Mining,United States,Connecticut,New Haven
+526,Jazzy,13398621,5156892,8241729,2.26,Industrial Machinery/Components,United States,Colorado,Denver
+527,Oyoloo,11426960,3554489,7872471,3.58,Real Estate Investment Trusts,United States,Illinois,Chicago
+528,Zoomlounge,17682038,719180,16962858,0.88,Real Estate Investment Trusts,United States,Michigan,Muskegon
+529,Pixoboo,4409419,1173776,3235643,4.03,Metal Fabrications,United States,Missouri,Saint Louis
+530,Agimba,10529146,2728979,7800167,1.81,Specialty Insurers,United States,California,Simi Valley
+531,Twitternation,10929889,4202432,6727457,1.24,Telecommunications Equipment,United States,Washington,Bellevue
+532,Flashspan,12135345,5003855,7131490,1.33,n/a,United States,Colorado,Denver
+533,Flipopia,1955033,5972075,-4017042,2.72,Property-Casualty Insurers,United States,Indiana,Evansville
+534,Layo,14086225,9234029,4852196,3.53,Major Pharmaceuticals,United States,Connecticut,Danbury
+535,Zoombox,8141232,4363712,3777520,1.18,Computer Communications Equipment,United States,Wisconsin,Milwaukee
+536,Dynabox,18128311,8084353,10043958,3.07,n/a,United States,Texas,Houston
+537,Oozz,5198513,3249049,1949464,0.92,Beverages (Production/Distribution),United States,Georgia,Atlanta
+538,Kaymbo,3422836,5381117,-1958281,4.1,Biotechnology: Commercial Physical & Biological Resarch,United States,Texas,Austin
+539,Edgepulse,15262704,8207292,7055412,1.1,Precious Metals,United States,Connecticut,Hartford
+540,Photobug,16147819,3963245,12184574,0.2,Farming/Seeds/Milling,United States,Arizona,Phoenix
+541,Wikibox,2763414,3422189,-658775,3.53,Other Consumer Services,United States,New Jersey,Newark
+542,Wordware,15035248,5389504,9645744,0.63,n/a,United States,Connecticut,New Haven
+543,Viva,11016320,6976218,4040102,4.3,Semiconductors,United States,Massachusetts,Worcester
+544,Photobean,18675595,1555099,17120496,0.91,n/a,United States,New Mexico,Albuquerque
+545,Fiveclub,2999022,2356518,642504,0.14,Investment Managers,United States,California,San Diego
+546,Tagtune,9562480,4994614,4567866,2.44,Major Pharmaceuticals,United States,Illinois,Springfield
+547,Yozio,16456441,4382707,12073734,2.73,n/a,United States,Arkansas,Little Rock
+548,Mynte,11064332,2378360,8685972,4.25,Auto Parts:O.E.M.,United States,Oregon,Portland
+549,Gigabox,10371394,4830917,5540477,0.92,n/a,United States,Florida,Winter Haven
+550,Wikivu,7584314,5533425,2050889,1.37,Air Freight/Delivery Services,United States,Ohio,Columbus
+551,Jetwire,8008718,1518779,6489939,0.6,n/a,United States,Minnesota,Young America
+552,Yambee,19831032,5936928,13894104,2.08,Real Estate,United States,Missouri,Kansas City
+553,Browsedrive,13744960,5392169,8352791,3.91,Auto Manufacturing,United States,Texas,Corpus Christi
+554,Roomm,16110053,4217740,11892313,2.36,Savings Institutions,United States,Tennessee,Nashville
+555,Skippad,8108053,4718511,3389542,3.59,Business Services,United States,South Carolina,Columbia
+556,Jaxspan,4937919,3603263,1334656,0.41,Precious Metals,United States,Texas,Pasadena
+557,Photospace,4501585,4482775,18810,3.58,Computer Software: Prepackaged Software,United States,North Carolina,Charlotte
+558,Oba,5330216,8075934,-2745718,4.01,n/a,United States,Wisconsin,Milwaukee
+559,Tagfeed,7499926,9968949,-2469023,0.22,n/a,United States,Washington,Kent
+560,Fiveclub,16420746,5089480,11331266,3.16,Apparel,United States,Tennessee,Murfreesboro
+561,Tagopia,7391248,3419187,3972061,2.22,Real Estate,United States,Oklahoma,Tulsa
+562,Skyble,12037652,1179095,10858557,4.13,Life Insurance,United States,California,Riverside
+563,Jaxspan,18967838,1790554,17177284,0.78,Power Generation,United States,New York,Buffalo
+564,Oloo,10754826,8761026,1993800,2.29,Medical Specialities,United States,Wisconsin,Madison
+565,Bubblemix,14423653,7773306,6650347,4.04,Auto Manufacturing,United States,Arizona,Phoenix
+566,Plajo,15566570,1708988,13857582,1.69,Major Chemicals,United States,Colorado,Colorado Springs
+567,Mycat,17032030,6315418,10716612,2.69,Semiconductors,United States,Nevada,Reno
+568,Buzzbean,4251355,5189419,-938064,0.41,Medical Specialities,United States,Ohio,Toledo
+569,Realmix,11518608,2877254,8641354,1.38,Property-Casualty Insurers,United States,Massachusetts,Worcester
+570,Zazio,10518282,4903982,5614300,1.54,EDP Services,United States,Minnesota,Minneapolis
+571,Voonix,5379282,7601849,-2222567,4.41,Real Estate Investment Trusts,United States,Ohio,Cincinnati
+572,Brainlounge,5490484,4279964,1210520,1.93,Telecommunications Equipment,United States,Illinois,Chicago
+573,Roomm,10717064,5002080,5714984,4.43,Medical/Dental Instruments,United States,Iowa,Davenport
+574,Kimia,3555145,9557210,-6002065,4.15,Major Pharmaceuticals,United States,Pennsylvania,Pittsburgh
+575,Oyoyo,17907371,8707489,9199882,1.4,Semiconductors,United States,Kentucky,Lexington
+576,Brightbean,10465576,9288234,1177342,1.31,Electronic Components,United States,Washington,Vancouver
+577,Twinte,12099582,7017398,5082184,1.85,n/a,United States,Tennessee,Chattanooga
+578,Blognation,5852512,5325940,526572,1.6,Major Pharmaceuticals,United States,Texas,Longview
+579,Realfire,6549962,5885179,664783,1.52,Medical Electronics,United States,Colorado,Littleton
+580,Browsecat,11451812,5323613,6128199,1.85,Major Banks,United States,Ohio,Dayton
+581,Skinder,13340625,1426686,11913939,0.92,Professional Services,United States,Georgia,Cumming
+582,Mudo,13774166,2446448,11327718,2.94,Computer Software: Prepackaged Software,United States,Texas,Huntsville
+583,Mudo,12349777,565836,11783941,3.99,Water Supply,United States,Florida,Bonita Springs
+584,Quire,17962307,2322003,15640304,3.5,n/a,United States,Maryland,Laurel
+585,Edgepulse,13347425,7927461,5419964,3.37,Farming/Seeds/Milling,United States,Georgia,Duluth
+586,Rhynoodle,17385167,5370732,12014435,2.36,Major Pharmaceuticals,United States,New Jersey,Newark
+587,Meevee,3418920,9132221,-5713301,0.73,Biotechnology: Commercial Physical & Biological Resarch,United States,Minnesota,Young America
+588,Ntag,2679573,8497316,-5817743,4.49,Oil & Gas Production,United States,Florida,Fort Pierce
+589,Aimbu,13192033,9322260,3869773,3.38,Finance Companies,United States,New York,New York City
+590,Skyba,1199248,5269005,-4069757,3.79,Precious Metals,United States,Kentucky,Lexington
+591,JumpXS,2809630,1925469,884161,2.73,Major Banks,United States,Virginia,Norfolk
+592,Skinix,3708220,2656665,1051555,0.66,Major Banks,United States,Massachusetts,Boston
+593,Devify,11231931,812484,10419447,4.49,Industrial Machinery/Components,United States,West Virginia,Huntington
+594,Yoveo,5084290,1719198,3365092,4.49,Telecommunications Equipment,United States,Oklahoma,Oklahoma City
+595,Browsedrive,6196612,8735088,-2538476,4.06,Real Estate Investment Trusts,United States,West Virginia,Huntington
+596,Eire,7800211,4695403,3104808,2.35,n/a,United States,Missouri,Kansas City
+597,Wikido,18263545,9658550,8604995,0.32,Oil & Gas Production,United States,Idaho,Boise
+598,Linktype,14481945,9333607,5148338,4.44,Banks,United States,New Mexico,Santa Fe
+599,Skyba,18984371,2147267,16837104,0.14,Hotels/Resorts,United States,New York,Great Neck
+600,Minyx,11801992,6929513,4872479,3.2,n/a,United States,Florida,Pompano Beach
+601,Quire,13009770,8689693,4320077,4.31,Steel/Iron Ore,United States,Utah,Salt Lake City
+602,Meemm,14887405,1214612,13672793,0.86,Medical/Nursing Services,United States,Kentucky,Lexington
+603,Jaxworks,11827278,5507144,6320134,1.29,Finance Companies,United States,New Mexico,Albuquerque
+604,Zoomlounge,2213516,5212924,-2999408,2.84,Business Services,United States,Florida,Bonita Springs
+605,Feedspan,17406275,7433961,9972314,4.21,n/a,United States,California,Fresno
+606,Bubbletube,6374420,3996435,2377985,0.9,Computer Software: Prepackaged Software,United States,Alabama,Montgomery
+607,Skidoo,8179834,6980795,1199039,2.76,Business Services,United States,Texas,Amarillo
+608,Dabshots,18797806,8576276,10221530,0.7,Biotechnology: Biological Products (No Diagnostic Substances),United States,Virginia,Norfolk
+609,Jazzy,5689580,3042320,2647260,4.22,Major Pharmaceuticals,United States,Texas,Huntsville
+610,Centimia,18220416,4500012,13720404,3.33,Major Banks,United States,Maryland,Baltimore
+611,Edgewire,1254483,3135198,-1880715,2.7,Oil Refining/Marketing,United States,Virginia,Reston
+612,Reallinks,11043839,2181038,8862801,1.52,Major Pharmaceuticals,United States,Washington,Tacoma
+613,Yakitri,4297425,9079546,-4782121,0.6,Medical/Dental Instruments,United States,Colorado,Denver
+614,Photobean,12670510,3787272,8883238,2.1,Apparel,United States,New York,Brooklyn
+615,Jamia,3780134,1718789,2061345,2.46,Property-Casualty Insurers,United States,Maryland,Laurel
+616,Youtags,3075361,9600743,-6525382,2.06,n/a,United States,California,Santa Ana
+617,Trudoo,3748225,3146880,601345,4.27,Finance: Consumer Services,United States,Mississippi,Jackson
+618,Snaptags,4759542,9783334,-5023792,2.94,Building Materials,United States,Illinois,Aurora
+619,Dynazzy,16974317,6417853,10556464,1.27,Oil & Gas Production,United States,Missouri,Saint Louis
+620,Cogibox,12257123,614841,11642282,1.42,Power Generation,United States,Colorado,Denver
+621,Zava,8588166,7937655,650511,3.35,Finance: Consumer Services,United States,District of Columbia,Washington
+622,Shufflester,12362371,8938321,3424050,2.74,Oil & Gas Production,United States,Indiana,South Bend
+623,Feedspan,1520331,6630743,-5110412,4.4,Broadcasting,United States,Virginia,Richmond
+624,Zoomlounge,15059332,7478325,7581007,2.42,Diversified Commercial Services,United States,Tennessee,Memphis
+625,Skipfire,3922347,2446246,1476101,4.4,Restaurants,United States,Pennsylvania,Pittsburgh
+626,Pixonyx,6099556,7149653,-1050097,0.58,n/a,United States,Tennessee,Knoxville
+627,Photofeed,13656661,7672209,5984452,2.55,Biotechnology: Commercial Physical & Biological Resarch,United States,Alabama,Montgomery
+628,Eamia,13011907,2162081,10849826,1.83,Computer Software: Prepackaged Software,United States,California,San Diego
+629,Thoughtstorm,13524434,8143427,5381007,2.61,EDP Services,United States,Nevada,Las Vegas
+630,Jatri,12228840,7318971,4909869,1.49,Major Banks,United States,New York,Brooklyn
+631,Wikibox,14519147,4366908,10152239,2.9,n/a,United States,Indiana,Indianapolis
+632,Topicshots,7159930,3276595,3883335,3.43,Business Services,United States,Florida,Fort Lauderdale
+633,Quamba,14456652,9988444,4468208,3.29,Savings Institutions,United States,Texas,Houston
+634,Meemm,5317799,4168396,1149403,3.99,Marine Transportation,United States,Florida,Tampa
+635,Thoughtbridge,3725978,5320429,-1594451,4.24,n/a,United States,Mississippi,Columbus
+636,Dablist,7787736,4264587,3523149,3.86,n/a,United States,California,North Hollywood
+637,Skipfire,3178912,4466272,-1287360,1.87,Homebuilding,United States,Tennessee,Nashville
+638,Bubbletube,2390826,2477587,-86761,1.54,Major Pharmaceuticals,United States,Florida,Clearwater
+639,Flashspan,1909731,6659190,-4749459,2.97,Investment Managers,United States,California,Berkeley
+640,Devpulse,9353795,6684772,2669023,1.69,Oil & Gas Production,United States,North Carolina,Greensboro
+641,Yodel,14626037,6959059,7666978,2.96,n/a,United States,Florida,Largo
+642,Skynoodle,17153270,3967061,13186209,2.54,n/a,United States,Louisiana,Alexandria
+643,Dabvine,9838308,9952591,-114283,3.95,Investment Managers,United States,California,Huntington Beach
+644,Fliptune,12630113,9644528,2985585,3.64,Packaged Foods,United States,Texas,Fort Worth
+645,Blogtags,10620549,8158965,2461584,2.41,Electronic Components,United States,Mississippi,Jackson
+646,Yakidoo,12991847,2089739,10902108,2.24,Accident &Health Insurance,United States,Indiana,Evansville
+647,Centimia,14474451,6928600,7545851,0.34,Oil & Gas Production,United States,Kentucky,Louisville
+648,Kwideo,10031165,8664588,1366577,0.98,Major Banks,United States,New York,New York City
+649,Jabberstorm,4595219,9661202,-5065983,1.07,Services-Misc. Amusement & Recreation,United States,Michigan,Saginaw
+650,Demivee,9915984,7493725,2422259,2.3,Consumer Electronics/Appliances,United States,Texas,Houston
+651,JumpXS,9015724,8145469,870255,2.49,n/a,United States,Maryland,Silver Spring
+652,Topicware,10956238,5215853,5740385,3.55,Major Banks,United States,South Carolina,Columbia
+653,Topiclounge,5612052,6224864,-612812,3.69,Broadcasting,United States,South Dakota,Sioux Falls
+654,Oodoo,3955989,7443169,-3487180,2.3,n/a,United States,Nebraska,Omaha
+655,Eayo,19481526,3543059,15938467,3.64,n/a,United States,California,Stockton
+656,Quatz,18681145,4226743,14454402,2.93,Finance: Consumer Services,United States,Illinois,Evanston
+657,Buzzster,18303480,3986430,14317050,1.35,n/a,United States,Nevada,Reno
+658,Dabtype,15820656,6832599,8988057,3.16,Biotechnology: Laboratory Analytical Instruments,United States,Maryland,Ridgely
+659,Blogpad,9207767,7083530,2124237,3.61,Restaurants,United States,Virginia,Roanoke
+660,Flashspan,10905964,1409061,9496903,0.16,n/a,United States,Minnesota,Saint Paul
+661,Fanoodle,4196620,1196468,3000152,3.49,Major Pharmaceuticals,United States,Texas,El Paso
+662,Browseblab,2463256,8098384,-5635128,0.36,Property-Casualty Insurers,United States,Idaho,Boise
+663,Bluezoom,4472015,4898113,-426098,3.64,Business Services,United States,Texas,Houston
+664,Skalith,2376138,4690915,-2314777,3.51,n/a,United States,Washington,Seattle
+665,Browsecat,6881940,1751326,5130614,2.03,Accident &Health Insurance,United States,Alabama,Birmingham
+666,Zoonder,8817987,6329230,2488757,1.11,Television Services,United States,Arkansas,Little Rock
+667,Skyble,7240352,9364656,-2124304,1.97,Multi-Sector Companies,United States,Arkansas,North Little Rock
+668,Topicstorm,9760958,9831413,-70455,1.02,Oil & Gas Production,United States,Florida,Miami
+669,Yacero,15043932,2342372,12701560,0.53,Shoe Manufacturing,United States,Colorado,Denver
+670,Yakitri,1945516,8453614,-6508098,1.11,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,Alabama,Mobile
+671,Meembee,13424493,562576,12861917,1.1,Major Pharmaceuticals,United States,Florida,Seminole
+672,Linktype,14388833,1225194,13163639,2.85,Real Estate Investment Trusts,United States,District of Columbia,Washington
+673,Quamba,7019321,3517296,3502025,1.99,Savings Institutions,United States,Alabama,Tuscaloosa
+674,Jayo,13777264,2637411,11139853,1.94,n/a,United States,Indiana,South Bend
+675,Eazzy,3370636,3549668,-179032,3.49,Electronic Components,United States,District of Columbia,Washington
+676,Miboo,3536271,8757803,-5221532,1.03,Power Generation,United States,Virginia,Herndon
+677,Wordify,3232341,2413690,818651,1.77,Computer Software: Prepackaged Software,United States,Texas,Dallas
+678,Thoughtblab,5533110,9827955,-4294845,3.46,Multi-Sector Companies,United States,Louisiana,Baton Rouge
+679,Eidel,13672287,3587016,10085271,1.94,Biotechnology: Biological Products (No Diagnostic Substances),United States,Colorado,Colorado Springs
+680,Wordware,17533378,6792502,10740876,2.56,n/a,United States,Pennsylvania,Philadelphia
+681,Voonder,6093586,9544552,-3450966,2.83,Business Services,United States,Texas,Garland
+682,Oyoba,7630169,2876310,4753859,2.13,Packaged Foods,United States,Ohio,Cincinnati
+683,Babbleblab,18129070,8960374,9168696,1.92,Major Chemicals,United States,Massachusetts,Boston
+684,Ainyx,19677048,2169410,17507638,3.48,n/a,United States,Colorado,Colorado Springs
+685,Vipe,10295514,2493884,7801630,1.64,Real Estate,United States,North Dakota,Fargo
+686,Flipstorm,2376787,9345123,-6968336,0.59,n/a,United States,Ohio,Akron
+687,Avamba,3769852,5073309,-1303457,0.75,n/a,United States,New York,New York City
+688,Demivee,12244046,2814354,9429692,3.33,Home Furnishings,United States,Minnesota,Minneapolis
+689,Skalith,5736363,8129820,-2393457,1.6,Electronic Components,United States,Arizona,Phoenix
+690,Demimbu,7686893,5729930,1956963,1.97,Biotechnology: Biological Products (No Diagnostic Substances),United States,Kentucky,Louisville
+691,Jabbertype,10678188,7549334,3128854,0.53,Computer Communications Equipment,United States,Texas,Austin
+692,Photobug,3966986,2325385,1641601,2.37,n/a,United States,Pennsylvania,Philadelphia
+693,Realfire,1851264,7626360,-5775096,3.25,n/a,United States,Connecticut,Hartford
+694,Minyx,6449654,2908586,3541068,1.86,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,Connecticut,Norwalk
+695,Skyba,3632953,3303585,329368,2.4,Property-Casualty Insurers,United States,Texas,Corpus Christi
+696,Thoughtbeat,16583395,600093,15983302,4.48,Environmental Services,United States,Ohio,Cleveland
+697,Einti,7337389,4772305,2565084,1.16,Business Services,United States,Virginia,Roanoke
+698,Browsedrive,6663778,5527333,1136445,0.2,Major Banks,United States,Pennsylvania,Harrisburg
+699,Topicware,7368173,8793240,-1425067,1.26,Advertising,United States,California,Riverside
+700,Topicstorm,4762943,3212852,1550091,1.84,Major Banks,United States,Maryland,Baltimore
+701,Browsecat,13587542,3331894,10255648,1.91,n/a,United States,Texas,Texarkana
+702,Fiveclub,13093521,1570184,11523337,3.4,n/a,United States,Minnesota,Monticello
+703,Rhycero,10088076,9995561,92515,3.64,Newspapers/Magazines,United States,Illinois,Springfield
+704,Flipopia,1620851,5542059,-3921208,2.17,Industrial Machinery/Components,United States,California,Pomona
+705,Jabbertype,1246309,6785654,-5539345,0.59,n/a,United States,Texas,Amarillo
+706,Abata,18085106,1992003,16093103,0.32,Major Pharmaceuticals,United States,Ohio,Cincinnati
+707,Ooba,6901990,2996316,3905674,2.0,Major Pharmaceuticals,United States,California,Los Angeles
+708,Devshare,8580979,8710840,-129861,0.32,Property-Casualty Insurers,United States,Hawaii,Honolulu
+709,Devpulse,18596290,6490836,12105454,4.16,Major Pharmaceuticals,United States,Indiana,Lafayette
+710,Browsebug,3345096,4041560,-696464,1.97,Computer Software: Prepackaged Software,United States,Georgia,Atlanta
+711,Voonte,9227985,1730211,7497774,2.02,n/a,United States,Oklahoma,Tulsa
+712,Fiveclub,9467186,7138313,2328873,1.53,Investment Bankers/Brokers/Service,United States,California,Bakersfield
+713,Fadeo,18173219,2053149,16120070,4.16,Trucking Freight/Courier Services,United States,Kansas,Topeka
+714,Aimbo,9483799,9137608,346191,3.24,Major Banks,United States,Arizona,Scottsdale
+715,Yodoo,15538363,2833119,12705244,2.46,Electric Utilities: Central,United States,New York,Buffalo
+716,Rhyzio,10738591,5037643,5700948,2.9,Investment Bankers/Brokers/Service,United States,Virginia,Arlington
+717,Leenti,17070313,7721537,9348776,3.35,n/a,United States,Texas,Austin
+718,Geba,19127135,4977817,14149318,0.53,Computer Software: Prepackaged Software,United States,Texas,Fort Worth
+719,LiveZ,18333637,4984420,13349217,1.15,Real Estate,United States,New York,Buffalo
+720,Skyvu,1191510,1810301,-618791,1.41,Radio And Television Broadcasting And Communications Equipment,United States,Mississippi,Jackson
+721,Ozu,16155023,1084902,15070121,4.12,n/a,United States,Illinois,Chicago
+722,Npath,18173116,5514045,12659071,3.71,n/a,United States,Georgia,Albany
+723,Skiba,11702853,6859789,4843064,0.99,Major Banks,United States,District of Columbia,Washington
+724,Bubbletube,6056211,2801381,3254830,1.8,Real Estate Investment Trusts,United States,Arizona,Phoenix
+725,Gabspot,12578343,6485286,6093057,4.41,Savings Institutions,United States,Ohio,Cleveland
+726,Bluezoom,13626454,2120519,11505935,4.02,Real Estate Investment Trusts,United States,Florida,Fort Lauderdale
+727,Leenti,17837944,7208243,10629701,1.09,Biotechnology: Biological Products (No Diagnostic Substances),United States,Alabama,Montgomery
+728,Jaloo,17355464,9965372,7390092,2.72,Major Banks,United States,Virginia,Fairfax
+729,Trilia,10383146,7909806,2473340,4.38,Homebuilding,United States,Florida,Daytona Beach
+730,Shuffledrive,13583256,5049464,8533792,1.17,Major Banks,United States,South Carolina,Spartanburg
+731,Roodel,15056437,9968006,5088431,3.51,Auto Manufacturing,United States,Colorado,Denver
+732,Dazzlesphere,12527605,2687946,9839659,4.21,Real Estate Investment Trusts,United States,Utah,Salt Lake City
+733,Yombu,12323528,9954661,2368867,2.42,Professional Services,United States,Michigan,Saginaw
+734,Topiczoom,16597568,5446300,11151268,4.19,Major Pharmaceuticals,United States,Florida,Daytona Beach
+735,Wordware,12050632,9046011,3004621,3.45,n/a,United States,Missouri,Kansas City
+736,Wikibox,12057276,2198170,9859106,1.31,Restaurants,United States,Oklahoma,Tulsa
+737,Agivu,1165769,7367260,-6201491,0.7,Major Pharmaceuticals,United States,Wisconsin,Madison
+738,Youopia,11815394,9295059,2520335,0.36,Commercial Banks,United States,Michigan,Detroit
+739,Aimbo,10592804,8817857,1774947,1.0,Transportation Services,United States,Michigan,Dearborn
+740,Midel,7645352,4684500,2960852,3.24,n/a,United States,New York,New York City
+741,Quimba,3087160,1880267,1206893,2.92,EDP Services,United States,Texas,Austin
+742,Cogidoo,12451365,9845795,2605570,1.33,Major Banks,United States,Texas,Fort Worth
+743,Tagopia,3709687,5861328,-2151641,1.67,Diversified Commercial Services,United States,South Carolina,Florence
+744,Plajo,5808136,1642996,4165140,2.23,Hotels/Resorts,United States,West Virginia,Huntington
+745,Vinder,2001410,4728357,-2726947,3.09,n/a,United States,New York,New Hyde Park
+746,Eidel,11547456,6464601,5082855,2.99,Electrical Products,United States,Mississippi,Jackson
+747,Fatz,17609614,4805131,12804483,1.94,Industrial Machinery/Components,United States,Georgia,Atlanta
+748,Dabjam,17409869,6205613,11204256,1.59,Medical Specialities,United States,Missouri,Kansas City
+749,Oloo,4567749,8139559,-3571810,2.79,Computer Software: Prepackaged Software,United States,Georgia,Columbus
+750,Meetz,16629876,9856590,6773286,0.51,Major Pharmaceuticals,United States,Minnesota,Minneapolis
+751,Youspan,17878723,7975638,9903085,2.22,Automotive Aftermarket,United States,Massachusetts,Boston
+752,Kwimbee,8509263,1972131,6537132,4.18,Clothing/Shoe/Accessory Stores,United States,Iowa,Davenport
+753,Cogilith,11381143,9622901,1758242,4.38,Beverages (Production/Distribution),United States,Minnesota,Saint Paul
+754,Yakitri,5002941,6286983,-1284042,0.4,n/a,United States,Kentucky,Lexington
+755,Jayo,15408812,724971,14683841,2.1,n/a,United States,Florida,Largo
+756,Mydo,2018560,9900684,-7882124,1.81,Apparel,United States,Indiana,Indianapolis
+757,Voonder,10666299,4974448,5691851,2.04,Radio And Television Broadcasting And Communications Equipment,United States,New York,Brooklyn
+758,Kazu,10747098,4497665,6249433,3.76,Real Estate Investment Trusts,United States,Washington,Seattle
+759,Voomm,8324288,2018957,6305331,4.39,n/a,United States,Kansas,Topeka
+760,Bluezoom,14525441,586265,13939176,3.47,Aerospace,United States,Kentucky,Lexington
+761,Voolia,13836917,1809218,12027699,4.18,n/a,United States,Minnesota,Minneapolis
+762,Rhynyx,18009821,1225048,16784773,2.58,Multi-Sector Companies,United States,Texas,El Paso
+763,Thoughtstorm,19957811,4040193,15917618,0.32,Biotechnology: Biological Products (No Diagnostic Substances),United States,District of Columbia,Washington
+764,Divavu,17919744,1827144,16092600,4.27,Major Pharmaceuticals,United States,Texas,Houston
+765,Photojam,7389817,1144009,6245808,1.62,n/a,United States,Nevada,Carson City
+766,Devbug,6839938,6755198,84740,3.93,Natural Gas Distribution,United States,New York,Rochester
+767,Teklist,13894928,6967184,6927744,1.82,Specialty Insurers,United States,Florida,Jacksonville
+768,Jabberbean,15510806,1872603,13638203,1.68,Business Services,United States,Pennsylvania,Harrisburg
+769,Muxo,17142547,9265677,7876870,4.44,Major Pharmaceuticals,United States,Texas,San Antonio
+770,Bluezoom,5024301,5194917,-170616,0.62,Marine Transportation,United States,Alaska,Anchorage
+771,Linkbridge,3873317,3831071,42246,0.78,Broadcasting,United States,Georgia,Atlanta
+772,Oyope,19927037,9824018,10103019,0.68,Air Freight/Delivery Services,United States,West Virginia,Huntington
+773,Skyndu,12223626,955401,11268225,0.81,Packaged Foods,United States,Tennessee,Knoxville
+774,Wikizz,18878118,4632337,14245781,0.56,Medical/Dental Instruments,United States,Iowa,Davenport
+775,Photofeed,7628122,5473648,2154474,0.8,Clothing/Shoe/Accessory Stores,United States,Michigan,Detroit
+776,Feedmix,13626072,9847456,3778616,3.97,n/a,United States,District of Columbia,Washington
+777,Eayo,16511115,1498816,15012299,2.75,Investment Managers,United States,Iowa,Des Moines
+778,Skinix,18189015,5056452,13132563,1.91,Major Pharmaceuticals,United States,North Carolina,Charlotte
+779,Yodoo,15065820,5365249,9700571,3.77,Telecommunications Equipment,United States,Missouri,Saint Louis
+780,Skiptube,4142240,9446710,-5304470,2.59,Investment Managers,United States,Texas,San Antonio
+781,Photospace,16636859,9091602,7545257,0.82,Computer Manufacturing,United States,Colorado,Pueblo
+782,Centizu,7528547,6991034,537513,2.29,Marine Transportation,United States,Colorado,Boulder
+783,Skalith,3394925,2010314,1384611,1.16,Oil & Gas Production,United States,Florida,Boynton Beach
+784,Devpoint,14821175,3380855,11440320,3.04,Clothing/Shoe/Accessory Stores,United States,South Carolina,Beaufort
+785,Buzzdog,13763438,2337164,11426274,1.17,Major Pharmaceuticals,United States,Colorado,Colorado Springs
+786,Kwilith,7091620,899345,6192275,0.21,n/a,United States,Texas,Houston
+787,Eabox,13832507,4075081,9757426,2.98,Telecommunications Equipment,United States,Washington,Bellevue
+788,Flashdog,5517642,3415457,2102185,4.33,Semiconductors,United States,California,Los Angeles
+789,Avamm,17270794,5310682,11960112,0.65,n/a,United States,Colorado,Denver
+790,Realbridge,11286133,3195850,8090283,4.11,Real Estate Investment Trusts,United States,Arkansas,Little Rock
+791,Eadel,19691060,7616472,12074588,1.71,n/a,United States,District of Columbia,Washington
+792,Zoonoodle,9043470,9973362,-929892,1.75,Major Banks,United States,Virginia,Roanoke
+793,Youbridge,1590315,2235810,-645495,3.38,Professional Services,United States,Florida,Kissimmee
+794,Riffpedia,14362714,9129204,5233510,2.02,Property-Casualty Insurers,United States,Massachusetts,Boston
+795,Realcube,12356669,9764782,2591887,1.61,Hotels/Resorts,United States,Florida,Pensacola
+796,Skimia,8648947,802432,7846515,3.58,Hotels/Resorts,United States,Texas,Lubbock
+797,Youopia,18626865,5536854,13090011,3.13,Medical/Nursing Services,United States,Ohio,Hamilton
+798,Kare,12283602,2147411,10136191,0.84,Major Pharmaceuticals,United States,Texas,Tyler
+799,Gevee,12267755,2224307,10043448,2.4,n/a,United States,Washington,Seattle
+800,Eayo,4116990,1102911,3014079,3.35,Specialty Chemicals,United States,Wisconsin,Milwaukee
+801,Livepath,3512725,8909985,-5397260,3.98,Clothing/Shoe/Accessory Stores,United States,Florida,Jacksonville
+802,Blognation,8640363,4020898,4619465,2.04,Engineering & Construction,United States,Florida,Orlando
+803,Bubblemix,4844597,3512139,1332458,2.71,Home Furnishings,United States,North Carolina,Durham
+804,Dazzlesphere,12500091,3323780,9176311,1.1,Telecommunications Equipment,United States,District of Columbia,Washington
+805,Aibox,8235293,6832485,1402808,2.76,Plastic Products,United States,Indiana,Indianapolis
+806,Leexo,1693162,6487170,-4794008,4.12,Containers/Packaging,United States,Colorado,Denver
+807,Photobug,17397180,6339072,11058108,2.13,Marine Transportation,United States,Minnesota,Maple Plain
+808,Jamia,10593365,8731439,1861926,1.69,n/a,United States,Delaware,Wilmington
+809,Innotype,18271117,649106,17622011,0.63,Major Pharmaceuticals,United States,Virginia,Alexandria
+810,Realmix,16004934,807082,15197852,3.41,Food Chains,United States,Tennessee,Nashville
+811,Linkbridge,13919395,4067267,9852128,2.31,Package Goods/Cosmetics,United States,New Hampshire,Portsmouth
+812,Topiclounge,12558584,8603717,3954867,0.78,n/a,United States,New York,Jamaica
+813,Jaxworks,15922999,9387451,6535548,2.41,Property-Casualty Insurers,United States,California,San Jose
+814,Yakitri,4046785,7590157,-3543372,2.85,Hotels/Resorts,United States,Michigan,Battle Creek
+815,Demivee,10333935,955276,9378659,2.22,Real Estate Investment Trusts,United States,Florida,Jacksonville
+816,Innojam,6764967,7660746,-895779,3.56,Business Services,United States,California,Van Nuys
+817,Meezzy,10663416,5459748,5203668,1.78,Precious Metals,United States,Florida,Fort Myers
+818,Jayo,2505958,7473759,-4967801,3.66,Home Furnishings,United States,Minnesota,Saint Cloud
+819,Tanoodle,11154339,1355746,9798593,3.82,Industrial Machinery/Components,United States,Wisconsin,Madison
+820,Jazzy,12821958,7741557,5080401,1.33,Precious Metals,United States,Indiana,Evansville
+821,Zoomzone,16111566,3231300,12880266,0.99,n/a,United States,Virginia,Charlottesville
+822,Gigaclub,17422629,7958796,9463833,0.28,Telecommunications Equipment,United States,Missouri,Kansas City
+823,Buzzster,4196575,6747342,-2550767,3.33,EDP Services,United States,California,Palmdale
+824,Twitternation,9620678,1663469,7957209,4.42,Industrial Machinery/Components,United States,South Carolina,Charleston
+825,Mynte,2833695,3486355,-652660,0.53,Major Pharmaceuticals,United States,Ohio,Cincinnati
+826,Tagpad,10155119,2164950,7990169,2.26,n/a,United States,Ohio,Cincinnati
+827,Pixope,3308414,8867806,-5559392,2.08,Apparel,United States,Alabama,Montgomery
+828,Jayo,18230769,7052849,11177920,4.02,n/a,United States,New York,Jamaica
+829,Wikibox,13363380,7903695,5459685,1.53,Integrated oil Companies,United States,Texas,Austin
+830,Nlounge,7760157,6701065,1059092,3.18,Television Services,United States,Texas,Dallas
+831,Yotz,6820162,4428170,2391992,0.63,n/a,United States,Michigan,Detroit
+832,Pixonyx,14616617,8605320,6011297,0.15,Specialty Insurers,United States,Florida,Tampa
+833,Edgeclub,8031065,4790576,3240489,1.95,n/a,United States,Oklahoma,Tulsa
+834,Bubblebox,1224373,9899603,-8675230,2.15,Investment Bankers/Brokers/Service,United States,Florida,Boca Raton
+835,Buzzbean,14404102,9447074,4957028,2.05,Department/Specialty Retail Stores,United States,California,San Jose
+836,Quimba,12116981,8297988,3818993,2.24,Real Estate Investment Trusts,United States,District of Columbia,Washington
+837,Photolist,18537777,7484755,11053022,2.18,Natural Gas Distribution,United States,Washington,Spokane
+838,Oyoba,4847100,1417882,3429218,0.48,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,Texas,Abilene
+839,Trunyx,17104097,1699025,15405072,4.3,Telecommunications Equipment,United States,California,Corona
+840,Quamba,13556374,9783823,3772551,1.66,Major Banks,United States,New Jersey,Trenton
+841,Twitterworks,9340472,2781375,6559097,0.61,Hotels/Resorts,United States,District of Columbia,Washington
+842,Realcube,15130791,1902172,13228619,1.99,Medical Specialities,United States,Virginia,Alexandria
+843,Gigabox,13577304,2670929,10906375,2.58,Major Chemicals,United States,Kentucky,Louisville
+844,Yakidoo,2930041,1653356,1276685,1.26,Electric Utilities: Central,United States,Colorado,Arvada
+845,Flipstorm,16591433,7954341,8637092,2.9,n/a,United States,Arizona,Mesa
+846,Trudoo,5877552,983766,4893786,4.07,Auto Parts:O.E.M.,United States,Texas,El Paso
+847,Linkbuzz,8502854,8636471,-133617,2.4,Trucking Freight/Courier Services,United States,Mississippi,Jackson
+848,Teklist,4273304,2400713,1872591,3.25,n/a,United States,Florida,Jacksonville
+849,Linktype,16390438,684578,15705860,2.95,Finance: Consumer Services,United States,Kansas,Shawnee Mission
+850,Mybuzz,15843035,9969421,5873614,0.42,Other Consumer Services,United States,New York,New York City
+851,Aibox,14609697,2474585,12135112,0.63,Major Banks,United States,Mississippi,Biloxi
+852,Pixoboo,16660071,4594722,12065349,3.94,n/a,United States,Oklahoma,Oklahoma City
+853,Fatz,17166757,1963394,15203363,3.38,Electrical Products,United States,Massachusetts,Worcester
+854,Realcube,12530272,2216057,10314215,0.42,Oil & Gas Production,United States,Idaho,Idaho Falls
+855,Avamm,6777941,2040988,4736953,0.77,Biotechnology: In Vitro & In Vivo Diagnostic Substances,United States,Texas,Houston
+856,Latz,3865517,4633289,-767772,4.46,Business Services,United States,Florida,Fort Lauderdale
+857,Kare,19398434,9208365,10190069,3.18,Finance: Consumer Services,United States,Washington,Seattle
+858,Dynabox,6153837,1597191,4556646,3.81,Biotechnology: Electromedical & Electrotherapeutic Apparatus,United States,Virginia,Charlottesville
+859,Demivee,8939674,2199575,6740099,3.24,Investment Bankers/Brokers/Service,United States,Wisconsin,Racine
+860,Linkbridge,16997361,8392684,8604677,3.75,n/a,United States,Arkansas,Hot Springs National Park
+861,Photobug,2218252,8194930,-5976678,4.24,Advertising,United States,Tennessee,Johnson City
+862,Meetz,1278965,5009207,-3730242,1.19,Engineering & Construction,United States,Missouri,Kansas City
+863,Meezzy,14538012,6613199,7924813,1.5,Computer Software: Prepackaged Software,United States,West Virginia,Huntington
+864,Oyonder,16645729,5487329,11158400,2.06,n/a,United States,Delaware,Wilmington
+865,Livetube,7077914,5003301,2074613,4.16,Precious Metals,United States,Texas,Houston
+866,Aimbu,13585517,3972870,9612647,1.39,n/a,United States,North Carolina,Greensboro
+867,Voolith,6333707,2913806,3419901,1.3,Major Chemicals,United States,Oregon,Portland
+868,Photolist,11837074,5193028,6644046,0.59,Telecommunications Equipment,United States,California,Pasadena
+869,Innotype,9666618,7822778,1843840,0.31,n/a,United States,Indiana,Evansville
+870,Wikido,15711771,2687332,13024439,0.22,Television Services,United States,Florida,Lake Worth
+871,Linkbridge,18513657,3895697,14617960,0.26,EDP Services,United States,Texas,Temple
+872,Topicware,2455725,4828871,-2373146,1.63,Business Services,United States,Louisiana,New Orleans
+873,Nlounge,3521850,4416008,-894158,1.05,Commercial Banks,United States,California,San Jose
+874,Lazz,2811800,6930756,-4118956,3.43,Other Consumer Services,United States,Texas,Abilene
+875,Ooba,2748357,8224340,-5475983,1.0,Electric Utilities: Central,United States,Illinois,Peoria
+876,Avamm,10434928,3350361,7084567,2.14,Industrial Machinery/Components,United States,Missouri,Springfield
+877,Yata,3083456,1080857,2002599,3.63,Television Services,United States,Pennsylvania,York
+878,Skyble,6008492,682401,5326091,3.74,Biotechnology: Biological Products (No Diagnostic Substances),United States,District of Columbia,Washington
+879,Buzzster,19085289,784225,18301064,0.16,Business Services,United States,Illinois,Chicago
+880,Skyba,12377886,941790,11436096,3.09,n/a,United States,Florida,Fort Lauderdale
+881,Kanoodle,5711384,8321525,-2610141,3.46,Restaurants,United States,Texas,El Paso
+882,Yata,9819038,2247259,7571779,1.48,Fluid Controls,United States,New Jersey,Trenton
+883,Gigaclub,12487624,5140508,7347116,4.09,Retail: Computer Software & Peripheral Equipment,United States,Virginia,Virginia Beach
+884,Katz,1943141,9166348,-7223207,0.13,Property-Casualty Insurers,United States,Florida,Pensacola
+885,Eamia,15241354,924521,14316833,3.57,Real Estate Investment Trusts,United States,California,Fresno
+886,Quimba,10236115,9995820,240295,4.43,Biotechnology: Laboratory Analytical Instruments,United States,Texas,El Paso
+887,Babbleblab,7713894,5882189,1831705,1.41,Hotels/Resorts,United States,Tennessee,Nashville
+888,Cogidoo,14962391,6201742,8760649,3.81,n/a,United States,Wisconsin,Racine
+889,Twitterlist,15212325,4425185,10787140,3.58,Electrical Products,United States,Missouri,Saint Louis
+890,Tanoodle,3164323,6680240,-3515917,0.34,n/a,United States,Virginia,Richmond
+891,Feedfish,4307515,7272067,-2964552,0.87,n/a,United States,Texas,Corpus Christi
+892,Kwinu,18938477,2482732,16455745,2.55,Other Consumer Services,United States,Texas,El Paso
+893,Topicware,8553129,2376757,6176372,2.7,n/a,United States,West Virginia,Huntington
+894,Bluejam,14505694,9254856,5250838,3.68,n/a,United States,Texas,San Antonio
+895,Topiclounge,11583405,2539637,9043768,1.07,n/a,United States,Minnesota,Saint Paul
+896,Jaxworks,12511826,6972173,5539653,0.69,Telecommunications Equipment,United States,Kentucky,Louisville
+897,Brainverse,9470415,5707280,3763135,2.79,Auto Parts:O.E.M.,United States,Alabama,Anniston
+898,Realpoint,16551577,3868488,12683089,3.31,n/a,United States,Texas,Dallas
+899,Devshare,3475976,1009756,2466220,3.98,Department/Specialty Retail Stores,United States,Louisiana,New Orleans
+900,Oba,18895158,4736833,14158325,0.39,Major Banks,United States,Maryland,Hyattsville
+901,Tanoodle,7037148,9205480,-2168332,3.99,Major Banks,United States,Florida,Saint Augustine
+902,Youspan,10167771,9910809,256962,1.63,Finance: Consumer Services,United States,New York,White Plains
+903,Thoughtstorm,15849609,1146460,14703149,2.43,n/a,United States,Alaska,Juneau
+904,Babbleopia,13162131,2653647,10508484,3.59,Telecommunications Equipment,United States,Oregon,Portland
+905,Divape,6779759,2719333,4060426,4.47,Computer peripheral equipment,United States,Texas,Dallas
+906,Voonyx,11444063,4520667,6923396,1.04,Electric Utilities: Central,United States,Virginia,Charlottesville
+907,Gabcube,16656901,3078231,13578670,3.68,n/a,United States,Missouri,Kansas City
+908,Browsedrive,8271794,696556,7575238,1.16,n/a,United States,Florida,Fort Pierce
+909,Babbleopia,12414873,4640379,7774494,2.63,Oil & Gas Production,United States,Ohio,Youngstown
+910,Rooxo,10342841,5074771,5268070,0.94,n/a,United States,Kentucky,Migrate
+911,Trudeo,16747124,6387112,10360012,2.2,Industrial Machinery/Components,United States,Georgia,Atlanta
+912,Photolist,15165762,8279655,6886107,3.23,Medical/Dental Instruments,United States,Texas,Houston
+913,Dynava,15333893,6316195,9017698,1.52,n/a,United States,Georgia,Atlanta
+914,Trupe,9528412,4894433,4633979,0.67,Major Pharmaceuticals,United States,West Virginia,Huntington
+915,Omba,6935997,564594,6371403,2.55,Oil & Gas Production,United States,Texas,Houston
+916,Linkbridge,9831668,7888664,1943004,4.22,"Computer Software: Programming, Data Processing",United States,West Virginia,Huntington
+917,Realblab,6942605,4042452,2900153,2.22,Biotechnology: Biological Products (No Diagnostic Substances),United States,Georgia,Atlanta
+918,Yotz,13837802,3917404,9920398,3.75,Water Supply,United States,District of Columbia,Washington
+919,Fanoodle,10111386,7443514,2667872,3.37,n/a,United States,Virginia,Richmond
+920,Youbridge,14423149,1375832,13047317,2.3,Industrial Specialties,United States,Colorado,Colorado Springs
+921,Jatri,15188100,5735508,9452592,2.59,Plastic Products,United States,Illinois,East Saint Louis
+922,Skyble,8273379,3302213,4971166,3.55,Major Banks,United States,Michigan,Detroit
+923,Dabjam,18138427,4710108,13428319,0.38,Savings Institutions,United States,Oklahoma,Oklahoma City
+924,Voolia,14170291,980768,13189523,2.3,Property-Casualty Insurers,United States,New York,Syracuse
+925,Browsetype,12393401,2832023,9561378,1.45,n/a,United States,Texas,Houston
+926,Jayo,14577619,3564071,11013548,1.44,Finance/Investors Services,United States,California,Long Beach
+927,Dablist,2887512,4538722,-1651210,4.18,Industrial Machinery/Components,United States,Texas,Fort Worth
+928,Thoughtblab,15135760,3257115,11878645,2.28,n/a,United States,Florida,Orlando
+929,Dabfeed,4849297,8287258,-3437961,2.07,Medical/Dental Instruments,United States,Indiana,Indianapolis
+930,Brightdog,17188914,5504606,11684308,0.36,Investment Managers,United States,Oklahoma,Oklahoma City
+931,Tagpad,3249833,8536577,-5286744,3.97,Electric Utilities: Central,United States,West Virginia,Charleston
+932,Skimia,3845741,4855044,-1009303,3.46,Specialty Insurers,United States,California,Sacramento
+933,Skinder,13183419,703847,12479572,2.05,n/a,United States,Mississippi,Jackson
+934,Snaptags,19979795,1820291,18159504,3.71,Business Services,United States,Utah,Salt Lake City
+935,Skidoo,12490947,9879929,2611018,2.84,n/a,United States,California,Burbank
+936,Babblestorm,10510867,4734015,5776852,0.53,Air Freight/Delivery Services,United States,Nebraska,Lincoln
+937,Oyoloo,9204728,5851454,3353274,3.75,n/a,United States,Iowa,Cedar Rapids
+938,Topicblab,6909742,2570573,4339169,2.47,Property-Casualty Insurers,United States,Vermont,Montpelier
+939,Demivee,2544029,950195,1593834,3.6,Auto Parts:O.E.M.,United States,Nebraska,Omaha
+940,Dabjam,18385362,9121733,9263629,1.31,Industrial Machinery/Components,United States,Tennessee,Kingsport
+941,Dabfeed,11376304,7090096,4286208,3.52,n/a,United States,New York,Yonkers
+942,Youbridge,4266219,2220405,2045814,1.9,Other Specialty Stores,United States,Colorado,Denver
+943,Skimia,10559438,8339018,2220420,0.72,n/a,United States,Kansas,Kansas City
+944,Oyope,9012142,7362527,1649615,1.86,Packaged Foods,United States,New Jersey,Trenton
+945,Brightbean,2496768,5594435,-3097667,0.33,n/a,United States,Ohio,Youngstown
+946,Yamia,10993150,659247,10333903,1.76,Commercial Banks,United States,West Virginia,Charleston
+947,Meembee,17135240,4861933,12273307,4.36,Military/Government/Technical,United States,New Mexico,Albuquerque
+948,Topdrive,1206217,3912302,-2706085,0.29,n/a,United States,Texas,Waco
+949,Bluezoom,16565503,1475185,15090318,4.2,Oil & Gas Production,United States,Michigan,Dearborn
+950,Npath,16714875,2380085,14334790,0.86,Package Goods/Cosmetics,United States,California,San Francisco
+951,Skinder,4329825,5761781,-1431956,0.37,Services-Misc. Amusement & Recreation,United States,Texas,San Antonio
+952,Rhycero,10689475,4886392,5803083,1.8,Business Services,United States,Georgia,Marietta
+953,Katz,8325367,2281131,6044236,3.69,Paints/Coatings,United States,Alabama,Birmingham
+954,Avamm,1430803,9272622,-7841819,1.5,Other Specialty Stores,United States,Arizona,Phoenix
+955,Thoughtstorm,2594495,4534571,-1940076,0.73,Oil & Gas Production,United States,California,San Diego
+956,Jabbersphere,16032906,1899993,14132913,4.32,n/a,United States,New York,New York City
+957,Centimia,13980491,990445,12990046,1.08,Publishing,United States,Louisiana,Lake Charles
+958,Fivebridge,13525526,8692971,4832555,4.17,Major Banks,United States,Oklahoma,Oklahoma City
+959,Aibox,13039339,3779675,9259664,1.94,Major Banks,United States,Utah,Sandy
+960,Topicstorm,17015606,4942385,12073221,3.74,Investment Bankers/Brokers/Service,United States,California,San Francisco
+961,Eayo,5520365,8983940,-3463575,3.86,Metal Fabrications,United States,Nebraska,Lincoln
+962,Avaveo,18605799,9289294,9316505,0.15,Oil & Gas Production,United States,Texas,Dallas
+963,Aimbu,16350249,9947396,6402853,1.78,Semiconductors,United States,Georgia,Atlanta
+964,Jabberstorm,15881265,2050840,13830425,0.3,n/a,United States,Colorado,Denver
+965,Devify,8732788,1039947,7692841,2.59,Computer Software: Prepackaged Software,United States,North Carolina,Durham
+966,Realmix,6683722,6451079,232643,1.64,Trucking Freight/Courier Services,United States,Pennsylvania,Pittsburgh
+967,Jaloo,15817671,8707086,7110585,4.4,Clothing/Shoe/Accessory Stores,United States,Illinois,Chicago
+968,Fivespan,16441441,7690972,8750469,1.45,Major Banks,United States,Hawaii,Honolulu
+969,Trilith,5705019,6559450,-854431,2.7,n/a,United States,Virginia,Lynchburg
+970,Blogpad,15389482,5775855,9613627,2.42,Commercial Banks,United States,Virginia,Roanoke
+971,Fanoodle,15765318,8405750,7359568,2.89,Major Pharmaceuticals,United States,Minnesota,Minneapolis
+972,Youfeed,2734799,3260890,-526091,1.23,Natural Gas Distribution,United States,Georgia,Macon
+973,Yombu,18088098,7525503,10562595,1.07,Rental/Leasing Companies,United States,Connecticut,New Haven
+974,Realbridge,9955537,7157978,2797559,3.17,Business Services,United States,California,Richmond
+975,Meembee,2472151,2076119,396032,3.26,Major Chemicals,United States,Arizona,Glendale
+976,Plajo,2149098,1708576,440522,2.33,Major Banks,United States,South Dakota,Sioux Falls
+977,Skyba,11661484,5517823,6143661,4.18,Home Furnishings,United States,Montana,Missoula
+978,Thoughtstorm,2033208,2471809,-438601,3.36,Semiconductors,United States,Texas,Dallas
+979,Zoomcast,19128258,1646708,17481550,0.27,Precious Metals,United States,Texas,Tyler
+980,Tagtune,10231976,5161828,5070148,2.45,n/a,United States,California,Los Angeles
+981,Aimbo,7379705,1428680,5951025,3.38,Railroads,United States,California,Fresno
+982,Tagtune,13987027,3566880,10420147,1.26,n/a,United States,Ohio,Cincinnati
+983,Twitterworks,5885086,8995299,-3110213,2.31,Property-Casualty Insurers,United States,New York,Brooklyn
+984,Quinu,4999849,2601664,2398185,2.18,n/a,United States,Oregon,Portland
+985,Rooxo,10081638,3101091,6980547,3.82,Savings Institutions,United States,Alabama,Birmingham
+986,Twitterwire,15616524,6738159,8878365,3.13,Major Banks,United States,Florida,Zephyrhills
+987,Jabbercube,1868232,2593486,-725254,0.58,Major Pharmaceuticals,United States,Texas,Dallas
+988,Tanoodle,11331242,8449580,2881662,3.79,Finance: Consumer Services,United States,Ohio,Toledo
+989,Meezzy,7083970,6213546,870424,3.09,Savings Institutions,United States,Nevada,Henderson
+990,Jatri,9751685,754788,8996897,3.77,Electric Utilities: Central,United States,Florida,West Palm Beach
+991,Dabfeed,9628813,9229802,399011,1.48,Savings Institutions,United States,Indiana,Evansville
+992,Quimba,4019561,2202134,1817427,1.71,n/a,United States,Texas,Houston
+993,Fivebridge,19691476,3477071,16214405,3.21,Hotels/Resorts,United States,California,Fresno
+994,Yombu,12420749,6369097,6051652,3.68,Other Specialty Stores,United States,Texas,El Paso
+995,Shufflebeat,17357096,5416565,11940531,1.36,Marine Transportation,United States,Alabama,Mobile
+996,Fadeo,11256063,2667184,8588879,4.39,n/a,United States,Pennsylvania,Philadelphia
+997,Chatterpoint,11661229,2339355,9321874,2.14,Major Banks,United States,North Carolina,Greensboro
+998,Yakitri,16146180,3821251,12324929,3.05,Business Services,United States,Texas,Lubbock
+999,Flipbug,8368318,7916201,452117,1.88,Semiconductors,United States,Michigan,Muskegon
+1000,Quaxo,19695283,8496963,11198320,3.59,n/a,United States,Kentucky,Louisville
